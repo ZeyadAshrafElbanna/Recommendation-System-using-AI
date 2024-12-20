@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Recommendations</title>
+    <style>
+        /* General Body Styling */
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #eef2f7;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        /* Header Styling */
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 15px 20px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        /* Main Content Styling */
+        main {
+            max-width: 800px;
+            margin: 30px auto;
+            padding: 25px;
+            background: #ffffff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 12px;
+        }
+
+        /* Title Styling */
+        h1 {
+            background: #4CAF50;
+            text-align: center;
+            margin-bottom: 20px;
+            font-size: 1.8rem;
+        }
+
+        /* List Styling */
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        li {
+            background: #f9fafc;
+            margin: 15px 0;
+            padding: 15px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            transition: transform 0.2s, box-shadow 0.2s;
+        }
+
+        li:hover {
+            transform: scale(1.02);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Item Details Styling */
+        .item-details {
+            margin-left: 10px;
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        /* Call to Action Button Styling */
+        a {
+            display: block;
+            width: fit-content;
+            margin: 30px auto;
+            text-decoration: none;
+            text-align: center;
+            color: #fff;
+            background:  #4CAF50;
+            padding: 10px 25px;
+            border-radius: 6px;
+            font-weight: bold;
+            font-size: 1rem;
+            box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+            transition: background-color 0.3s, box-shadow 0.3s;
+        }
+
+        a:hover {
+            background-color: #4CAF50;
+            box-shadow: 0 6px 14px rgba(0, 0, 0, 0.2);
+        }
+    </style>
+</head>
+<body>
+    <header>Item Recommendations</header>
+    <main>
+        <h1>Recommendations for User {{ user_id }}</h1>
+        <ul>
+            {% for item in recommended_items %}
+            <li>
+                <strong>Item ID:</strong> {{ item.Item_ID }}<br>
+                <strong>Category:</strong> {{ item.Product_Category }}<br>
+                <strong>Type:</strong> {{ item.Product_Type }}<br>
+                <strong>Brand:</strong> {{ item.Product_Brand }}
+            </li>
+            {% endfor %}
+        </ul>
+        <a href="/">Back to Home</a>
+    </main>
+</body>
+</html>

@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Item_ID,Date,Rating,Payment_Method,Amount,Total_Purchases,Total_Amount_EGP,Customer_Name,Customer_Email,Country,Age,Gender,Product_Category,Product_Type,Product_Brand
+TXN000001,CUST001,ITEM006,1723235379.715988,5,Mobile Payment,1761.41,7,12329.87,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Television,Samsung
+TXN000002,CUST001,ITEM008,1719426431.718145,5,Credit Card,1247.17,4,4988.68,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Books,Fiction,Penguin Books
+TXN000003,CUST001,ITEM062,1669192259.718413,5,Cash,581.37,5,2906.85,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Meat,Chicken,Panda
+TXN000004,CUST001,ITEM057,1704458372.718614,1,Cash,784.38,7,5490.66,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000005,CUST001,ITEM079,1686270702.718752,4,Cash,1816.67,8,14533.36,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Home Appliances,Siemens
+TXN000006,CUST001,ITEM092,1702773142.718878,3,Credit Card,162.21,7,1135.47,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Grocery,Ketchup,Heinz
+TXN000007,CUST001,ITEM081,1720167424.719007,5,Mobile Payment,1040.05,8,8320.4,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Beauty,Makeup,LOreal
+TXN000008,CUST001,ITEM031,1730966506.719128,5,Mobile Payment,383.23,8,3065.84,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Clothing,T-shirt,Adidas
+TXN000009,CUST001,ITEM060,1683182786.719272,3,Cash,16.17,6,97.02000000000001,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000010,CUST001,ITEM020,1713012393.719423,5,Cash,1959.26,5,9796.3,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Smartphone,Apple
+TXN000011,CUST001,ITEM002,1682340487.719563,3,Credit Card,135.78,9,1222.02,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Clothing,T-shirt,Nike
+TXN000012,CUST001,ITEM041,1670202071.719706,4,Cash,1782.4,4,7129.6,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000013,CUST001,ITEM087,1675413793.719827,4,Mobile Payment,1941.28,9,17471.52,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Beauty,Haircare,Dove
+TXN000014,CUST001,ITEM061,1710984387.719944,1,Cash,1308.09,2,2616.18,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Pharmacy,Healthcare,Herbel Essence
+TXN000015,CUST001,ITEM095,1685536839.720071,1,Mobile Payment,710.27,4,2841.08,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Kitchen,Household,Procter & Gamble
+TXN000016,CUST001,ITEM040,1703396771.720189,5,Credit Card,540.73,1,540.73,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000017,CUST001,ITEM088,1680000151.720306,5,Mobile Payment,551.74,7,3862.1800000000003,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Health,Body Care,Dove
+TXN000018,CUST001,ITEM089,1707980681.720456,5,Credit Card,491.38,1,491.38,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Beauty,Skincare,Nivea
+TXN000019,CUST001,ITEM044,1706014428.720615,5,Mobile Payment,1917.89,7,13425.230000000001,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Fridge,LG
+TXN000020,CUST001,ITEM012,1695402140.720744,4,Mobile Payment,1697.82,7,11884.74,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Decorations,Home Depot
+TXN000021,CUST001,ITEM083,1721733058.720874,5,Mobile Payment,304.14,6,1824.84,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Beauty,Skincare,LOreal
+TXN000022,CUST001,ITEM039,1679312228.720995,5,Credit Card,203.54,5,1017.6999999999999,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Electronics,B.TECH
+TXN000023,CUST001,ITEM006,1698676456.721123,4,Cash,346.36,5,1731.8000000000002,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Television,Samsung
+TXN000024,CUST001,ITEM010,1727403673.72125,3,Credit Card,240.51,3,721.53,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Books,Literature,Penguin Books
+TXN000025,CUST001,ITEM084,1718127733.721404,5,Credit Card,1715.68,7,12009.76,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Beauty,Makeup,Maybelline
+TXN000026,CUST001,ITEM048,1715790075.721534,4,Cash,805.63,2,1611.26,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Grocery,Juice,Juhayna
+TXN000027,CUST001,ITEM090,1683638960.721664,5,Cash,804.33,3,2412.9900000000002,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Health,Oral Care,Oral-B
+TXN000028,CUST001,ITEM012,1715315646.721783,5,Mobile Payment,1254.46,2,2508.92,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Decorations,Home Depot
+TXN000029,CUST001,ITEM026,1722898934.721899,5,Credit Card,639.28,9,5753.5199999999995,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Books,Fiction,Random House
+TXN000030,CUST001,ITEM039,1721209688.722014,4,Mobile Payment,69.6,3,208.79999999999998,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Electronics,B.TECH
+TXN000031,CUST001,ITEM006,1714096823.72213,1,Mobile Payment,68.97,8,551.76,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Electronics,Television,Samsung
+TXN000032,CUST001,ITEM008,1706647151.722245,5,Credit Card,12.4,8,99.2,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Books,Fiction,Penguin Books
+TXN000033,CUST001,ITEM012,1685549132.722395,4,Mobile Payment,1984.23,9,17858.07,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Decorations,Home Depot
+TXN000034,CUST001,ITEM069,1675504650.722544,5,Mobile Payment,752.7,7,5268.900000000001,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Grocery,Sunflower Oil,Crystal
+TXN000035,CUST001,ITEM012,1682446095.722673,1,Credit Card,556.4,6,3338.3999999999996,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Household,Decorations,Home Depot
+TXN000036,CUST001,ITEM008,1709433153.722792,1,Credit Card,1032.38,8,8259.04,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Books,Fiction,Penguin Books
+TXN000037,CUST001,ITEM064,1672400384.722917,1,Mobile Payment,1549.18,1,1549.18,Norma Fisher,cust001@gmail.com,Egypt,62,Female,Grocery,Olive Oil,Afia
+TXN000038,CUST002,ITEM089,1672113595.723044,3,Mobile Payment,871.64,6,5229.84,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Beauty,Skincare,Nivea
+TXN000039,CUST002,ITEM052,1690401936.723179,3,Mobile Payment,782.76,6,4696.5599999999995,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Meat,Meat,Halwani Bros
+TXN000040,CUST002,ITEM079,1691885929.723297,1,Cash,1757.96,8,14063.68,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Household,Home Appliances,Siemens
+TXN000041,CUST002,ITEM012,1718533811.723438,5,Mobile Payment,1163.56,1,1163.56,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Household,Decorations,Home Depot
+TXN000042,CUST002,ITEM002,1699209971.723558,5,Credit Card,736.17,9,6625.53,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Clothing,T-shirt,Nike
+TXN000043,CUST002,ITEM073,1685269433.723684,4,Mobile Payment,561.91,5,2809.5499999999997,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Gaming,Playstation,Sony
+TXN000044,CUST002,ITEM032,1669927697.723799,1,Credit Card,473.82,4,1895.28,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Clothing,Jacket,Adidas
+TXN000045,CUST002,ITEM016,1690748352.72392,5,Cash,365.37,5,1826.85,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Grocery,Coffee,Nestle
+TXN000046,CUST002,ITEM081,1674669033.724034,5,Mobile Payment,1442.04,1,1442.04,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Beauty,Makeup,LOreal
+TXN000047,CUST002,ITEM002,1731175056.724146,4,Mobile Payment,836.41,7,5854.87,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Clothing,T-shirt,Nike
+TXN000048,CUST002,ITEM016,1682717025.724258,5,Cash,750.12,9,6751.08,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Grocery,Coffee,Nestle
+TXN000049,CUST002,ITEM077,1725366091.724412,2,Mobile Payment,1154.67,8,9237.36,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Electronics,Audio,Philips
+TXN000050,CUST002,ITEM056,1696816933.724539,4,Credit Card,678.84,8,5430.72,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Meat,Meat,Sadia
+TXN000051,CUST002,ITEM076,1670428282.724673,5,Credit Card,1791.74,3,5375.22,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Electronics,TV,Philips
+TXN000052,CUST002,ITEM005,1725209372.724801,5,Credit Card,497.33,1,497.33,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Audio Devices,Headphones,Samsung
+TXN000053,CUST002,ITEM042,1720985041.724921,5,Mobile Payment,595.21,5,2976.05,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Household,Decorations,Bed Bath & Beyond
+TXN000054,CUST002,ITEM039,1727233564.725034,4,Cash,1075.58,3,3226.74,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Electronics,Electronics,B.TECH
+TXN000055,CUST002,ITEM041,1689837144.725173,4,Credit Card,167.15,1,167.15,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000056,CUST002,ITEM043,1718966798.725287,5,Credit Card,501.62,1,501.62,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Electronics,Air Conditioner,LG
+TXN000057,CUST002,ITEM011,1711138400.725427,4,Credit Card,1196.9,7,8378.300000000001,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Household,Tools,Home Depot
+TXN000058,CUST002,ITEM031,1681333947.725548,5,Credit Card,1863.7,4,7454.8,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Clothing,T-shirt,Adidas
+TXN000059,CUST002,ITEM074,1691787736.725678,4,Cash,24.86,4,99.44,Jorge Sullivan,cust002@gmail.com,Egypt,65,Male,Electronics,Television,Sony
+TXN000060,CUST003,ITEM095,1683672594.725805,4,Cash,1196.17,2,2392.34,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Kitchen,Household,Procter & Gamble
+TXN000061,CUST003,ITEM004,1714230678.725938,4,Credit Card,1796.11,1,1796.11,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Clothing,Shorts,Nike
+TXN000062,CUST003,ITEM005,1714133442.726056,5,Cash,584.25,2,1168.5,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Audio Devices,Headphones,Samsung
+TXN000063,CUST003,ITEM038,1724285884.726179,3,Mobile Payment,741.58,9,6674.22,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Household,Washing Machine,B.TECH
+TXN000064,CUST003,ITEM057,1701746464.726295,4,Mobile Payment,856.55,2,1713.1,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000065,CUST003,ITEM093,1719813838.726451,3,Cash,438.64,8,3509.12,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Mayonnaise,Heinz
+TXN000066,CUST003,ITEM013,1706011349.726573,2,Credit Card,240.17,5,1200.85,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Household,Lighting,Home Depot
+TXN000067,CUST003,ITEM093,1718451538.726697,4,Credit Card,124.07,5,620.3499999999999,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Mayonnaise,Heinz
+TXN000068,CUST003,ITEM077,1675221953.726811,3,Credit Card,74.22,5,371.1,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Electronics,Audio,Philips
+TXN000069,CUST003,ITEM081,1709090667.726934,1,Mobile Payment,1096.38,4,4385.52,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Beauty,Makeup,LOreal
+TXN000070,CUST003,ITEM049,1678969591.72705,5,Credit Card,825.36,2,1650.72,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Milk,Faragalla
+TXN000071,CUST003,ITEM049,1683507901.727163,4,Mobile Payment,1946.09,5,9730.449999999999,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Milk,Faragalla
+TXN000072,CUST003,ITEM037,1686683289.727276,5,Mobile Payment,1771.56,4,7086.24,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Home Appliances,Bedding,IKEA
+TXN000073,CUST003,ITEM061,1677491220.727421,1,Credit Card,486.28,2,972.56,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Pharmacy,Healthcare,Herbel Essence
+TXN000074,CUST003,ITEM052,1669488817.727542,3,Cash,959.12,8,7672.96,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Meat,Meat,Halwani Bros
+TXN000075,CUST003,ITEM075,1700243244.727667,3,Credit Card,1279.33,9,11513.97,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Gaming,Xbox,Microsoft
+TXN000076,CUST003,ITEM017,1726453912.727782,2,Mobile Payment,1178.88,2,2357.76,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Juice,Nestle
+TXN000077,CUST003,ITEM003,1684908227.727895,4,Cash,540.15,8,4321.2,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Clothing,Jacket,Nike
+TXN000078,CUST003,ITEM086,1700690678.728029,5,Mobile Payment,387.61,2,775.22,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Beauty,Haircare,Pantene
+TXN000079,CUST003,ITEM065,1714228186.728148,4,Mobile Payment,1593.22,3,4779.66,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Sesame Oil,Afia
+TXN000080,CUST003,ITEM093,1716623517.728261,5,Credit Card,888.23,6,5329.38,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Grocery,Mayonnaise,Heinz
+TXN000081,CUST003,ITEM071,1720430952.728408,4,Mobile Payment,352.67,3,1058.01,Elizabeth Woods,cust003@gmail.com,Egypt,18,Male,Computers,Laptop,HP
+TXN000082,CUST004,ITEM030,1703489486.728542,5,Cash,629.86,8,5038.88,Susan Wagner,cust004@gmail.com,Egypt,21,Female,Clothing,Shoes,Adidas
+TXN000083,CUST004,ITEM013,1675198861.728668,5,Cash,430.8,4,1723.2,Susan Wagner,cust004@gmail.com,Egypt,21,Female,Household,Lighting,Home Depot
+TXN000084,CUST004,ITEM082,1725803491.728783,5,Mobile Payment,1485.05,9,13365.449999999999,Susan Wagner,cust004@gmail.com,Egypt,21,Female,Beauty,Haircare,LOreal
+TXN000085,CUST005,ITEM028,1679611652.728902,5,Mobile Payment,1800.73,8,14405.84,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Books,Thriller,Random House
+TXN000086,CUST005,ITEM089,1678104713.729015,1,Mobile Payment,1461.6,8,11692.8,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Beauty,Skincare,Nivea
+TXN000087,CUST005,ITEM057,1699270344.729127,3,Mobile Payment,1517.15,9,13654.35,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000088,CUST005,ITEM033,1704117447.729245,5,Cash,1133.69,5,5668.450000000001,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Soft Drink,Pepsi
+TXN000089,CUST005,ITEM017,1680433242.729382,5,Cash,495.62,1,495.62,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Juice,Nestle
+TXN000090,CUST005,ITEM095,1679018410.729525,5,Cash,1292.4,8,10339.2,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Kitchen,Household,Procter & Gamble
+TXN000091,CUST005,ITEM028,1675811940.72965,1,Credit Card,1515.74,1,1515.74,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Books,Thriller,Random House
+TXN000092,CUST005,ITEM088,1731777191.729779,2,Credit Card,337.42,2,674.84,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Health,Body Care,Dove
+TXN000093,CUST005,ITEM029,1700487258.729893,2,Cash,492.85,3,1478.5500000000002,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Soft Drink,Coca-Cola
+TXN000094,CUST005,ITEM034,1703726195.73001,3,Cash,790.94,6,4745.64,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Furniture,IKEA
+TXN000095,CUST005,ITEM066,1730687516.730124,5,Credit Card,443.15,5,2215.75,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Sunflower Oil,Afia
+TXN000096,CUST005,ITEM078,1719695795.730249,5,Cash,887.15,3,2661.45,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Home Appliances,Bosch
+TXN000097,CUST005,ITEM046,1690379275.730401,5,Cash,1708.68,4,6834.72,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Electronics,Air Conditioner,Tushiba
+TXN000098,CUST005,ITEM009,1698337929.730544,1,Cash,231.88,1,231.88,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Books,Non-Fiction,Penguin Books
+TXN000099,CUST005,ITEM006,1730705323.73067,3,Mobile Payment,987.49,8,7899.92,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Electronics,Television,Samsung
+TXN000100,CUST005,ITEM076,1704414058.7308,5,Mobile Payment,674.7,1,674.7,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Electronics,TV,Philips
+TXN000101,CUST005,ITEM083,1682401354.730915,4,Credit Card,939.57,3,2818.71,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Beauty,Skincare,LOreal
+TXN000102,CUST005,ITEM028,1676276827.731037,5,Cash,29.27,2,58.54,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Books,Thriller,Random House
+TXN000103,CUST005,ITEM049,1730077991.731151,5,Cash,1845.37,6,11072.22,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Milk,Faragalla
+TXN000104,CUST005,ITEM052,1725590781.731264,5,Mobile Payment,435.53,1,435.53,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Meat,Meat,Halwani Bros
+TXN000105,CUST005,ITEM063,1677987047.731804,1,Mobile Payment,466.84,8,3734.72,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Meat,Meat,Panda
+TXN000106,CUST005,ITEM017,1704367125.732066,1,Cash,1877.44,6,11264.64,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Juice,Nestle
+TXN000107,CUST005,ITEM082,1695134785.732226,5,Cash,956.89,5,4784.45,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Beauty,Haircare,LOreal
+TXN000108,CUST005,ITEM085,1693431803.732411,4,Mobile Payment,1044.96,4,4179.84,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Beauty,Makeup,Revlon
+TXN000109,CUST005,ITEM049,1681685637.732566,1,Cash,1592.03,8,12736.24,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Milk,Faragalla
+TXN000110,CUST005,ITEM070,1680684444.732727,5,Credit Card,984.02,8,7872.16,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Computers,Laptop,Dell
+TXN000111,CUST005,ITEM079,1670119995.732867,4,Credit Card,479.31,1,479.31,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Home Appliances,Siemens
+TXN000112,CUST005,ITEM027,1684461726.732994,2,Mobile Payment,1558.77,5,7793.85,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Books,Literature,Random House
+TXN000113,CUST005,ITEM057,1721674729.733154,4,Credit Card,472.44,5,2362.2,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000114,CUST005,ITEM032,1684766107.733284,4,Cash,145.51,1,145.51,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Clothing,Jacket,Adidas
+TXN000115,CUST005,ITEM015,1730583300.733448,5,Cash,905.95,2,1811.9,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Water,Nestle
+TXN000116,CUST005,ITEM051,1687334750.733579,3,Cash,1760.91,3,5282.7300000000005,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Meat,Chicken,Halwani Bros
+TXN000117,CUST005,ITEM018,1721009531.733719,4,Credit Card,1257.15,6,7542.900000000001,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Chocolate,Galaxy
+TXN000118,CUST005,ITEM023,1718768260.733861,4,Credit Card,1707.96,5,8539.8,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Clothing,Shirt,Zara
+TXN000119,CUST005,ITEM090,1677037821.733986,1,Mobile Payment,833.38,1,833.38,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Health,Oral Care,Oral-B
+TXN000120,CUST005,ITEM092,1717805137.734108,4,Cash,628.15,4,2512.6,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Ketchup,Heinz
+TXN000121,CUST005,ITEM019,1678361428.73424,5,Credit Card,192.54,3,577.62,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Snacks,Galaxy
+TXN000122,CUST005,ITEM013,1722985292.734408,5,Mobile Payment,1104.61,1,1104.61,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Lighting,Home Depot
+TXN000123,CUST005,ITEM066,1725507439.734544,1,Credit Card,1305.94,6,7835.64,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Sunflower Oil,Afia
+TXN000124,CUST005,ITEM051,1678647542.734672,1,Cash,1883.92,4,7535.68,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Meat,Chicken,Halwani Bros
+TXN000125,CUST005,ITEM047,1694529731.734797,2,Credit Card,262.19,7,1835.33,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Grocery,Milk,Juhayna
+TXN000126,CUST005,ITEM014,1670750631.734916,5,Credit Card,1046.15,7,7323.050000000001,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Furniture,Home Depot
+TXN000127,CUST005,ITEM044,1691905271.735038,5,Credit Card,1239.14,9,11152.26,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Household,Fridge,LG
+TXN000128,CUST005,ITEM001,1693522110.735157,5,Mobile Payment,1053.91,7,7377.370000000001,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Clothing,Shoes,Nike
+TXN000129,CUST005,ITEM063,1674019486.735289,1,Credit Card,1771.19,6,10627.14,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Meat,Meat,Panda
+TXN000130,CUST005,ITEM084,1704043769.735457,4,Cash,1934.44,4,7737.76,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Beauty,Makeup,Maybelline
+TXN000131,CUST005,ITEM041,1673818940.735607,4,Credit Card,539.91,5,2699.5499999999997,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000132,CUST005,ITEM043,1731804640.735734,5,Credit Card,1549.68,7,10847.76,Peter Montgomery,cust005@gmail.com,Egypt,21,Male,Electronics,Air Conditioner,LG
+TXN000133,CUST006,ITEM066,1707788153.736163,1,Credit Card,922.24,7,6455.68,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Sunflower Oil,Afia
+TXN000134,CUST006,ITEM093,1718018409.736391,2,Mobile Payment,335.73,7,2350.11,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Mayonnaise,Heinz
+TXN000135,CUST006,ITEM036,1695237931.736569,1,Mobile Payment,1813.4,2,3626.8,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Home Appliances,Bathroom,IKEA
+TXN000136,CUST006,ITEM028,1727785023.736713,5,Credit Card,229.94,1,229.94,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Books,Thriller,Random House
+TXN000137,CUST006,ITEM068,1676956288.736855,5,Mobile Payment,558.1,4,2232.4,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Sesame Oil,Crystal
+TXN000138,CUST006,ITEM070,1672947581.73701,5,Mobile Payment,1912.69,1,1912.69,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Computers,Laptop,Dell
+TXN000139,CUST006,ITEM017,1673233221.737142,5,Cash,520.97,9,4688.7300000000005,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Juice,Nestle
+TXN000140,CUST006,ITEM063,1722143360.73727,4,Mobile Payment,1585.61,3,4756.83,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Meat,Meat,Panda
+TXN000141,CUST006,ITEM092,1703954869.737482,4,Mobile Payment,371.14,6,2226.84,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Ketchup,Heinz
+TXN000142,CUST006,ITEM074,1713617880.737632,2,Cash,706.3,5,3531.5,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Electronics,Television,Sony
+TXN000143,CUST006,ITEM023,1674979671.737759,2,Credit Card,672.33,8,5378.64,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Clothing,Shirt,Zara
+TXN000144,CUST006,ITEM080,1682177699.737882,5,Credit Card,1655.34,4,6621.36,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Household,Home Appliances,Haier
+TXN000145,CUST006,ITEM063,1686273416.738012,1,Credit Card,246.68,8,1973.44,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Meat,Meat,Panda
+TXN000146,CUST006,ITEM083,1711893817.738134,1,Credit Card,174.92,2,349.84,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Beauty,Skincare,LOreal
+TXN000147,CUST006,ITEM047,1698901259.738253,5,Mobile Payment,1847.68,8,14781.44,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Milk,Juhayna
+TXN000148,CUST006,ITEM006,1687823323.738396,5,Credit Card,1864.84,6,11189.039999999999,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Electronics,Television,Samsung
+TXN000149,CUST006,ITEM057,1720330607.738534,5,Credit Card,1454.31,3,4362.93,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000150,CUST006,ITEM064,1687751310.738773,5,Credit Card,851.88,2,1703.76,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Olive Oil,Afia
+TXN000151,CUST006,ITEM096,1702730414.738927,5,Cash,1302.57,1,1302.57,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Health,Personal Care,Procter & Gamble
+TXN000152,CUST006,ITEM066,1699860063.739051,3,Credit Card,1823.79,9,16414.11,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Sunflower Oil,Afia
+TXN000153,CUST006,ITEM051,1689745539.739183,4,Mobile Payment,1159.05,9,10431.449999999999,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Meat,Chicken,Halwani Bros
+TXN000154,CUST006,ITEM047,1689729029.739303,3,Credit Card,1884.95,6,11309.7,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Milk,Juhayna
+TXN000155,CUST006,ITEM054,1724636004.739505,5,Mobile Payment,695.14,8,5561.12,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Meat,Meat,Atayb
+TXN000156,CUST006,ITEM095,1731286184.739644,5,Credit Card,1297.96,3,3893.88,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Kitchen,Household,Procter & Gamble
+TXN000157,CUST006,ITEM079,1681635625.739796,5,Credit Card,28.66,9,257.94,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Household,Home Appliances,Siemens
+TXN000158,CUST006,ITEM051,1684416227.740056,5,Cash,1772.73,5,8863.65,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Meat,Chicken,Halwani Bros
+TXN000159,CUST006,ITEM050,1694602749.740205,4,Mobile Payment,1964.67,3,5894.01,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Grocery,Juice,Faragalla
+TXN000160,CUST006,ITEM075,1730676806.740325,5,Cash,921.84,4,3687.36,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Gaming,Xbox,Microsoft
+TXN000161,CUST006,ITEM042,1698885561.740482,5,Cash,286.88,7,2008.1599999999999,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Household,Decorations,Bed Bath & Beyond
+TXN000162,CUST006,ITEM005,1684204478.740607,4,Credit Card,782.46,8,6259.68,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Audio Devices,Headphones,Samsung
+TXN000163,CUST006,ITEM025,1695765579.740725,4,Cash,563.45,9,5071.05,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Clothing,Jacket,Zara
+TXN000164,CUST006,ITEM073,1725809852.740841,5,Cash,409.89,6,2459.34,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Gaming,Playstation,Sony
+TXN000165,CUST006,ITEM005,1712725942.740957,4,Credit Card,1943.81,7,13606.67,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Audio Devices,Headphones,Samsung
+TXN000166,CUST006,ITEM074,1723301667.741073,4,Mobile Payment,1501.91,6,9011.460000000001,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Electronics,Television,Sony
+TXN000167,CUST006,ITEM090,1723106163.741189,5,Cash,1390.56,9,12515.039999999999,Theodore Mcgrath,cust006@gmail.com,Egypt,57,Male,Health,Oral Care,Oral-B
+TXN000168,CUST007,ITEM033,1712892668.741312,4,Cash,1320.62,7,9244.34,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Soft Drink,Pepsi
+TXN000169,CUST007,ITEM048,1676877385.741456,5,Mobile Payment,1776.52,5,8882.6,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Juice,Juhayna
+TXN000170,CUST007,ITEM075,1702199400.741602,5,Mobile Payment,1542.55,7,10797.85,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Gaming,Xbox,Microsoft
+TXN000171,CUST007,ITEM001,1674980002.741752,5,Cash,1243.91,7,8707.37,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Clothing,Shoes,Nike
+TXN000172,CUST007,ITEM048,1722581423.74188,5,Cash,463.46,5,2317.2999999999997,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Juice,Juhayna
+TXN000173,CUST007,ITEM063,1719439399.741997,5,Cash,591.43,7,4140.009999999999,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Meat,Panda
+TXN000174,CUST007,ITEM007,1702365152.742116,5,Cash,111.6,6,669.5999999999999,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,Tablet,Samsung
+TXN000175,CUST007,ITEM067,1712235720.742232,4,Cash,1691.86,5,8459.3,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Olive Oil,Crystal
+TXN000176,CUST007,ITEM065,1677639744.742346,1,Credit Card,45.36,6,272.15999999999997,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Sesame Oil,Afia
+TXN000177,CUST007,ITEM072,1679457070.742502,5,Credit Card,209.46,3,628.38,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Computers,Laptop,Lenovo
+TXN000178,CUST007,ITEM081,1673418468.742622,3,Mobile Payment,262.9,3,788.6999999999999,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Beauty,Makeup,LOreal
+TXN000179,CUST007,ITEM029,1731362042.742737,2,Mobile Payment,1246.07,6,7476.42,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Soft Drink,Coca-Cola
+TXN000180,CUST007,ITEM029,1707516943.742851,5,Mobile Payment,116.93,4,467.72,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Soft Drink,Coca-Cola
+TXN000181,CUST007,ITEM076,1713930526.742967,5,Mobile Payment,1522.15,6,9132.900000000001,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,TV,Philips
+TXN000182,CUST007,ITEM062,1677376777.743086,4,Credit Card,1968.22,9,17713.98,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Chicken,Panda
+TXN000183,CUST007,ITEM053,1688480320.743201,5,Cash,1308.5,5,6542.5,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Chicken,Atayb
+TXN000184,CUST007,ITEM066,1713351969.743326,3,Mobile Payment,333.28,4,1333.12,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Sunflower Oil,Afia
+TXN000185,CUST007,ITEM007,1692494638.743485,4,Credit Card,472.31,7,3306.17,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,Tablet,Samsung
+TXN000186,CUST007,ITEM012,1728825418.743607,4,Credit Card,1069.32,5,5346.599999999999,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Household,Decorations,Home Depot
+TXN000187,CUST007,ITEM092,1718395350.743722,5,Cash,1039.07,1,1039.07,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Ketchup,Heinz
+TXN000188,CUST007,ITEM064,1695436381.743835,4,Mobile Payment,39.41,8,315.28,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Olive Oil,Afia
+TXN000189,CUST007,ITEM035,1719522519.743949,4,Mobile Payment,763.02,5,3815.1,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Home Appliances,Kitchen,IKEA
+TXN000190,CUST007,ITEM046,1719288787.744061,4,Cash,748.86,5,3744.3,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,Air Conditioner,Tushiba
+TXN000191,CUST007,ITEM091,1674457474.744182,5,Credit Card,219.69,3,659.0699999999999,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Health,Oral Care,Colgate
+TXN000192,CUST007,ITEM011,1674495672.744296,5,Mobile Payment,1773.37,6,10640.22,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Household,Tools,Home Depot
+TXN000193,CUST007,ITEM072,1690501869.744449,5,Mobile Payment,1323.34,4,5293.36,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Computers,Laptop,Lenovo
+TXN000194,CUST007,ITEM085,1691193038.744577,5,Credit Card,1515.01,8,12120.08,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Beauty,Makeup,Revlon
+TXN000195,CUST007,ITEM061,1686937608.74469,5,Mobile Payment,1406.66,9,12659.94,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Pharmacy,Healthcare,Herbel Essence
+TXN000196,CUST007,ITEM040,1688107538.744805,4,Credit Card,1009.76,5,5048.8,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000197,CUST007,ITEM025,1719528993.744919,5,Mobile Payment,1089.26,9,9803.34,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Clothing,Jacket,Zara
+TXN000198,CUST007,ITEM062,1728672808.745047,4,Credit Card,1624.41,9,14619.69,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Chicken,Panda
+TXN000199,CUST007,ITEM029,1672997560.745162,5,Mobile Payment,1530.1,5,7650.5,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Grocery,Soft Drink,Coca-Cola
+TXN000200,CUST007,ITEM022,1703396035.745276,2,Mobile Payment,1532.49,4,6129.96,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,Tablet,Apple
+TXN000201,CUST007,ITEM054,1681030646.745414,5,Cash,979.42,3,2938.2599999999998,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Meat,Atayb
+TXN000202,CUST007,ITEM055,1727319419.745559,1,Mobile Payment,798.51,6,4791.0599999999995,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Chicken,Sadia
+TXN000203,CUST007,ITEM079,1697459976.745678,1,Mobile Payment,1350.57,3,4051.71,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Household,Home Appliances,Siemens
+TXN000204,CUST007,ITEM004,1692979271.745794,1,Cash,1061.36,4,4245.44,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Clothing,Shorts,Nike
+TXN000205,CUST007,ITEM062,1730471079.74591,1,Credit Card,294.73,3,884.19,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Chicken,Panda
+TXN000206,CUST007,ITEM060,1718521777.746023,1,Mobile Payment,156.41,2,312.82,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000207,CUST007,ITEM039,1692120122.746138,5,Credit Card,139.59,2,279.18,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Electronics,Electronics,B.TECH
+TXN000208,CUST007,ITEM054,1680700729.746251,4,Mobile Payment,1258.41,3,3775.2300000000005,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Meat,Meat,Atayb
+TXN000209,CUST007,ITEM041,1672768820.746387,4,Cash,1817.99,7,12725.93,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000210,CUST007,ITEM045,1684974678.746529,5,Cash,272.06,3,816.1800000000001,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Household,Washing Machine,LG
+TXN000211,CUST007,ITEM003,1731373877.746658,5,Credit Card,624.55,2,1249.1,Stephanie Collins,cust007@gmail.com,Egypt,27,Female,Clothing,Jacket,Nike
+TXN000212,CUST008,ITEM050,1675144820.746783,5,Cash,972.08,3,2916.2400000000002,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Grocery,Juice,Faragalla
+TXN000213,CUST008,ITEM016,1720378373.746897,5,Mobile Payment,137.01,8,1096.08,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Grocery,Coffee,Nestle
+TXN000214,CUST008,ITEM086,1701845015.74701,4,Cash,617.33,2,1234.66,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Beauty,Haircare,Pantene
+TXN000215,CUST008,ITEM012,1671096503.747124,5,Mobile Payment,612.73,1,612.73,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Household,Decorations,Home Depot
+TXN000216,CUST008,ITEM038,1692745024.747241,2,Cash,1500.46,8,12003.68,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Household,Washing Machine,B.TECH
+TXN000217,CUST008,ITEM028,1690002599.747384,4,Cash,1797.19,7,12580.33,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Books,Thriller,Random House
+TXN000218,CUST008,ITEM012,1712785656.747517,2,Credit Card,289.47,9,2605.2300000000005,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Household,Decorations,Home Depot
+TXN000219,CUST008,ITEM071,1687277286.747635,5,Cash,85.71,5,428.54999999999995,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Computers,Laptop,HP
+TXN000220,CUST008,ITEM050,1670993520.747748,5,Credit Card,1067.67,4,4270.68,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Grocery,Juice,Faragalla
+TXN000221,CUST008,ITEM091,1718888690.747862,2,Mobile Payment,762.75,2,1525.5,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Health,Oral Care,Colgate
+TXN000222,CUST008,ITEM072,1698392520.747975,4,Credit Card,1966.72,1,1966.72,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Computers,Laptop,Lenovo
+TXN000223,CUST008,ITEM072,1679321687.748087,1,Mobile Payment,463.2,6,2779.2,Stephanie Sutton,cust008@gmail.com,Egypt,37,Female,Computers,Laptop,Lenovo
+TXN000224,CUST009,ITEM056,1712178319.748219,2,Mobile Payment,992.95,2,1985.9,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Meat,Meat,Sadia
+TXN000225,CUST009,ITEM067,1673278453.748334,1,Credit Card,1106.48,5,5532.4,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Olive Oil,Crystal
+TXN000226,CUST009,ITEM015,1703702886.748478,5,Credit Card,1667.56,3,5002.68,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Water,Nestle
+TXN000227,CUST009,ITEM080,1722137610.748596,4,Credit Card,1581.84,9,14236.56,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Home Appliances,Haier
+TXN000228,CUST009,ITEM066,1697256917.748724,5,Cash,1763.19,5,8815.95,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Sunflower Oil,Afia
+TXN000229,CUST009,ITEM013,1692207389.748846,1,Credit Card,1817.41,3,5452.2300000000005,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Lighting,Home Depot
+TXN000230,CUST009,ITEM001,1729827372.748966,5,Credit Card,1847.09,6,11082.539999999999,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Clothing,Shoes,Nike
+TXN000231,CUST009,ITEM079,1685202620.749091,5,Credit Card,1558.7,1,1558.7,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Home Appliances,Siemens
+TXN000232,CUST009,ITEM057,1685731799.749218,2,Mobile Payment,1406.55,8,11252.4,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000233,CUST009,ITEM027,1705457722.749331,4,Mobile Payment,1545.1,9,13905.9,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Books,Literature,Random House
+TXN000234,CUST009,ITEM059,1673123600.74948,5,Credit Card,1996.73,6,11980.380000000001,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Pharmacy,Healthcare,Eva Cosmetics
+TXN000235,CUST009,ITEM094,1670358923.7496,2,Credit Card,128.92,8,1031.36,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Health,Personal Care,Unilever
+TXN000236,CUST009,ITEM093,1688200036.749714,1,Credit Card,1284.72,4,5138.88,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Mayonnaise,Heinz
+TXN000237,CUST009,ITEM072,1714787650.74984,1,Cash,1098.27,9,9884.43,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Computers,Laptop,Lenovo
+TXN000238,CUST009,ITEM006,1671934809.749955,2,Mobile Payment,1335.35,7,9347.449999999999,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Electronics,Television,Samsung
+TXN000239,CUST009,ITEM090,1692198068.750068,4,Cash,664.62,6,3987.7200000000003,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Health,Oral Care,Oral-B
+TXN000240,CUST009,ITEM051,1702017576.750182,1,Cash,88.01,4,352.04,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Meat,Chicken,Halwani Bros
+TXN000241,CUST009,ITEM012,1721213006.750299,5,Cash,637.62,3,1912.8600000000001,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Decorations,Home Depot
+TXN000242,CUST009,ITEM076,1670846853.750452,5,Mobile Payment,1180.43,6,7082.58,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Electronics,TV,Philips
+TXN000243,CUST009,ITEM009,1707883631.750583,5,Cash,1483.29,6,8899.74,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Books,Non-Fiction,Penguin Books
+TXN000244,CUST009,ITEM060,1704785845.750697,2,Credit Card,1248.91,3,3746.7300000000005,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000245,CUST009,ITEM013,1681794418.750809,3,Mobile Payment,1831.66,1,1831.66,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Lighting,Home Depot
+TXN000246,CUST009,ITEM028,1709017052.750922,5,Cash,368.01,4,1472.04,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Books,Thriller,Random House
+TXN000247,CUST009,ITEM060,1711033818.751035,5,Cash,1175.4,2,2350.8,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000248,CUST009,ITEM073,1715579857.751147,5,Mobile Payment,1372.15,5,6860.75,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Gaming,Playstation,Sony
+TXN000249,CUST009,ITEM092,1697909928.75126,4,Credit Card,800.35,3,2401.05,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Ketchup,Heinz
+TXN000250,CUST009,ITEM004,1674197237.751392,5,Credit Card,371.43,6,2228.58,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Clothing,Shorts,Nike
+TXN000251,CUST009,ITEM023,1709720186.751533,2,Mobile Payment,1207.24,3,3621.7200000000003,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Clothing,Shirt,Zara
+TXN000252,CUST009,ITEM071,1689216832.75165,5,Cash,1673.75,1,1673.75,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Computers,Laptop,HP
+TXN000253,CUST009,ITEM038,1677822063.751763,1,Credit Card,621.99,2,1243.98,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Washing Machine,B.TECH
+TXN000254,CUST009,ITEM014,1728751527.751876,4,Cash,212.52,1,212.52,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Furniture,Home Depot
+TXN000255,CUST009,ITEM038,1717774128.751987,4,Mobile Payment,1891.82,1,1891.82,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Household,Washing Machine,B.TECH
+TXN000256,CUST009,ITEM050,1700105552.7521,5,Cash,165.21,1,165.21,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Juice,Faragalla
+TXN000257,CUST009,ITEM017,1689614170.752212,4,Mobile Payment,1517.37,1,1517.37,Brian Hamilton,cust009@gmail.com,Egypt,39,Female,Grocery,Juice,Nestle
+TXN000258,CUST010,ITEM043,1699013652.752332,5,Credit Card,488.18,4,1952.72,Susan Levy,cust010@gmail.com,Egypt,68,Male,Electronics,Air Conditioner,LG
+TXN000259,CUST010,ITEM067,1711569154.752477,4,Mobile Payment,1354.75,8,10838.0,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Olive Oil,Crystal
+TXN000260,CUST010,ITEM062,1683861936.752606,1,Cash,839.7,8,6717.6,Susan Levy,cust010@gmail.com,Egypt,68,Male,Meat,Chicken,Panda
+TXN000261,CUST010,ITEM063,1669484600.752722,1,Cash,1239.97,5,6199.85,Susan Levy,cust010@gmail.com,Egypt,68,Male,Meat,Meat,Panda
+TXN000262,CUST010,ITEM046,1707138087.752834,5,Mobile Payment,760.77,6,4564.62,Susan Levy,cust010@gmail.com,Egypt,68,Male,Electronics,Air Conditioner,Tushiba
+TXN000263,CUST010,ITEM034,1722296405.752947,5,Mobile Payment,1181.06,6,7086.36,Susan Levy,cust010@gmail.com,Egypt,68,Male,Household,Furniture,IKEA
+TXN000264,CUST010,ITEM046,1706843038.753067,1,Cash,495.87,2,991.74,Susan Levy,cust010@gmail.com,Egypt,68,Male,Electronics,Air Conditioner,Tushiba
+TXN000265,CUST010,ITEM026,1724232374.753183,2,Mobile Payment,1848.63,9,16637.670000000002,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Fiction,Random House
+TXN000266,CUST010,ITEM091,1708655882.753296,5,Mobile Payment,1800.31,7,12602.17,Susan Levy,cust010@gmail.com,Egypt,68,Male,Health,Oral Care,Colgate
+TXN000267,CUST010,ITEM049,1716100825.753434,2,Cash,502.75,2,1005.5,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Milk,Faragalla
+TXN000268,CUST010,ITEM064,1719813001.753562,4,Credit Card,1128.51,7,7899.57,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Olive Oil,Afia
+TXN000269,CUST010,ITEM037,1697098261.753677,4,Cash,75.56,2,151.12,Susan Levy,cust010@gmail.com,Egypt,68,Male,Home Appliances,Bedding,IKEA
+TXN000270,CUST010,ITEM062,1694253239.753802,5,Cash,470.2,5,2351.0,Susan Levy,cust010@gmail.com,Egypt,68,Male,Meat,Chicken,Panda
+TXN000271,CUST010,ITEM085,1715558116.753915,5,Cash,641.57,9,5774.13,Susan Levy,cust010@gmail.com,Egypt,68,Male,Beauty,Makeup,Revlon
+TXN000272,CUST010,ITEM010,1691080100.754028,2,Credit Card,1050.99,6,6305.9400000000005,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Literature,Penguin Books
+TXN000273,CUST010,ITEM007,1719818026.754147,2,Mobile Payment,239.97,4,959.88,Susan Levy,cust010@gmail.com,Egypt,68,Male,Electronics,Tablet,Samsung
+TXN000274,CUST010,ITEM027,1709455294.75426,5,Cash,579.8,2,1159.6,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Literature,Random House
+TXN000275,CUST010,ITEM081,1708827980.754393,2,Cash,346.26,4,1385.04,Susan Levy,cust010@gmail.com,Egypt,68,Male,Beauty,Makeup,LOreal
+TXN000276,CUST010,ITEM080,1674347538.75452,1,Mobile Payment,629.38,2,1258.76,Susan Levy,cust010@gmail.com,Egypt,68,Male,Household,Home Appliances,Haier
+TXN000277,CUST010,ITEM054,1708251605.754649,1,Mobile Payment,1638.66,7,11470.62,Susan Levy,cust010@gmail.com,Egypt,68,Male,Meat,Meat,Atayb
+TXN000278,CUST010,ITEM093,1671048000.754763,5,Mobile Payment,25.76,2,51.52,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Mayonnaise,Heinz
+TXN000279,CUST010,ITEM041,1672903919.754876,3,Cash,1614.19,3,4842.57,Susan Levy,cust010@gmail.com,Egypt,68,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000280,CUST010,ITEM028,1713505090.754989,1,Mobile Payment,774.7,3,2324.1000000000004,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Thriller,Random House
+TXN000281,CUST010,ITEM047,1673801394.755101,2,Cash,729.13,5,3645.65,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Milk,Juhayna
+TXN000282,CUST010,ITEM064,1687769663.755213,4,Cash,1579.05,9,14211.449999999999,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Olive Oil,Afia
+TXN000283,CUST010,ITEM078,1687303651.755326,1,Cash,523.7,2,1047.4,Susan Levy,cust010@gmail.com,Egypt,68,Male,Household,Home Appliances,Bosch
+TXN000284,CUST010,ITEM025,1688365022.755471,5,Mobile Payment,944.07,1,944.07,Susan Levy,cust010@gmail.com,Egypt,68,Male,Clothing,Jacket,Zara
+TXN000285,CUST010,ITEM012,1704691578.75559,3,Credit Card,772.93,9,6956.37,Susan Levy,cust010@gmail.com,Egypt,68,Male,Household,Decorations,Home Depot
+TXN000286,CUST010,ITEM092,1709878867.755703,4,Mobile Payment,1538.8,7,10771.6,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Ketchup,Heinz
+TXN000287,CUST010,ITEM010,1677391569.755816,5,Credit Card,1561.85,1,1561.85,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Literature,Penguin Books
+TXN000288,CUST010,ITEM027,1724327826.755929,5,Mobile Payment,1623.85,9,14614.65,Susan Levy,cust010@gmail.com,Egypt,68,Male,Books,Literature,Random House
+TXN000289,CUST010,ITEM019,1731891960.756041,1,Cash,563.32,8,4506.56,Susan Levy,cust010@gmail.com,Egypt,68,Male,Grocery,Snacks,Galaxy
+TXN000290,CUST011,ITEM079,1710390324.756172,4,Mobile Payment,460.13,6,2760.7799999999997,Sean Green,cust011@gmail.com,Egypt,54,Male,Household,Home Appliances,Siemens
+TXN000291,CUST011,ITEM007,1702104365.756288,4,Cash,66.44,5,332.2,Sean Green,cust011@gmail.com,Egypt,54,Male,Electronics,Tablet,Samsung
+TXN000292,CUST011,ITEM035,1728822906.75643,5,Mobile Payment,1912.36,3,5737.08,Sean Green,cust011@gmail.com,Egypt,54,Male,Home Appliances,Kitchen,IKEA
+TXN000293,CUST011,ITEM014,1717002594.756559,5,Credit Card,36.5,3,109.5,Sean Green,cust011@gmail.com,Egypt,54,Male,Household,Furniture,Home Depot
+TXN000294,CUST011,ITEM087,1671508260.756673,5,Credit Card,312.57,1,312.57,Sean Green,cust011@gmail.com,Egypt,54,Male,Beauty,Haircare,Dove
+TXN000295,CUST011,ITEM080,1730823984.756786,5,Mobile Payment,585.42,4,2341.68,Sean Green,cust011@gmail.com,Egypt,54,Male,Household,Home Appliances,Haier
+TXN000296,CUST011,ITEM036,1687185170.756898,4,Credit Card,634.25,9,5708.25,Sean Green,cust011@gmail.com,Egypt,54,Male,Home Appliances,Bathroom,IKEA
+TXN000297,CUST012,ITEM044,1706635671.757017,5,Cash,1016.54,6,6099.24,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Household,Fridge,LG
+TXN000298,CUST012,ITEM001,1686797121.75713,4,Mobile Payment,785.36,7,5497.52,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Clothing,Shoes,Nike
+TXN000299,CUST012,ITEM004,1724436716.757243,5,Cash,358.8,3,1076.4,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Clothing,Shorts,Nike
+TXN000300,CUST012,ITEM068,1703241603.757398,4,Credit Card,986.19,2,1972.38,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Grocery,Sesame Oil,Crystal
+TXN000301,CUST012,ITEM041,1672382666.757542,5,Mobile Payment,233.02,3,699.0600000000001,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000302,CUST012,ITEM035,1697459802.75766,5,Mobile Payment,1548.98,5,7744.9,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Home Appliances,Kitchen,IKEA
+TXN000303,CUST012,ITEM026,1715997465.757773,1,Credit Card,274.96,4,1099.84,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Books,Fiction,Random House
+TXN000304,CUST012,ITEM072,1699229898.757898,1,Credit Card,914.63,1,914.63,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Computers,Laptop,Lenovo
+TXN000305,CUST012,ITEM042,1724200633.758013,4,Credit Card,1584.93,7,11094.51,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Household,Decorations,Bed Bath & Beyond
+TXN000306,CUST012,ITEM009,1719284100.758126,5,Credit Card,932.75,1,932.75,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Books,Non-Fiction,Penguin Books
+TXN000307,CUST012,ITEM050,1728085934.75824,3,Mobile Payment,1050.42,7,7352.9400000000005,Kimberly Smith,cust012@gmail.com,Egypt,41,Male,Grocery,Juice,Faragalla
+TXN000308,CUST013,ITEM010,1671399371.758377,5,Cash,1669.55,7,11686.85,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Books,Literature,Penguin Books
+TXN000309,CUST013,ITEM057,1714928163.758509,5,Credit Card,176.23,6,1057.3799999999999,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000310,CUST013,ITEM077,1717086686.758625,1,Cash,1726.71,2,3453.42,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Electronics,Audio,Philips
+TXN000311,CUST013,ITEM050,1677685139.75874,3,Mobile Payment,1218.29,1,1218.29,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Juice,Faragalla
+TXN000312,CUST013,ITEM072,1670008360.758863,5,Cash,1121.24,4,4484.96,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Computers,Laptop,Lenovo
+TXN000313,CUST013,ITEM071,1701648380.758976,5,Credit Card,1440.57,8,11524.56,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Computers,Laptop,HP
+TXN000314,CUST013,ITEM041,1730582016.75909,5,Mobile Payment,552.54,3,1657.62,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000315,CUST013,ITEM060,1679638677.759217,5,Cash,1846.6,1,1846.6,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000316,CUST013,ITEM004,1703182327.759333,5,Cash,580.11,9,5220.99,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Shorts,Nike
+TXN000317,CUST013,ITEM092,1676722288.759489,3,Credit Card,1859.59,2,3719.18,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Ketchup,Heinz
+TXN000318,CUST013,ITEM040,1720232363.75961,1,Credit Card,1821.72,6,10930.32,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000319,CUST013,ITEM001,1700477487.759724,1,Cash,1856.23,3,5568.6900000000005,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Shoes,Nike
+TXN000320,CUST013,ITEM081,1688192141.759838,1,Mobile Payment,1110.44,4,4441.76,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Beauty,Makeup,LOreal
+TXN000321,CUST013,ITEM041,1699782328.759951,5,Cash,243.92,1,243.92,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000322,CUST013,ITEM059,1731439682.760064,5,Mobile Payment,385.68,8,3085.44,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Pharmacy,Healthcare,Eva Cosmetics
+TXN000323,CUST013,ITEM081,1680138064.760176,4,Mobile Payment,384.28,7,2689.96,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Beauty,Makeup,LOreal
+TXN000324,CUST013,ITEM089,1714860353.760301,5,Cash,746.69,5,3733.4500000000003,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Beauty,Skincare,Nivea
+TXN000325,CUST013,ITEM048,1690505210.760441,2,Cash,463.98,9,4175.82,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Juice,Juhayna
+TXN000326,CUST013,ITEM072,1674377748.760568,5,Credit Card,1864.59,4,7458.36,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Computers,Laptop,Lenovo
+TXN000327,CUST013,ITEM079,1714206443.760684,4,Mobile Payment,294.28,9,2648.5199999999995,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Household,Home Appliances,Siemens
+TXN000328,CUST013,ITEM085,1701404978.7608,1,Mobile Payment,602.47,6,3614.82,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Beauty,Makeup,Revlon
+TXN000329,CUST013,ITEM083,1708463175.760913,5,Credit Card,902.48,6,5414.88,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Beauty,Skincare,LOreal
+TXN000330,CUST013,ITEM047,1721541310.761036,2,Mobile Payment,1384.83,4,5539.32,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Milk,Juhayna
+TXN000331,CUST013,ITEM005,1683947913.761152,1,Credit Card,1940.56,8,15524.48,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Audio Devices,Headphones,Samsung
+TXN000332,CUST013,ITEM028,1688475962.761264,1,Cash,360.9,1,360.9,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Books,Thriller,Random House
+TXN000333,CUST013,ITEM001,1698673534.761398,1,Credit Card,842.54,3,2527.62,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Shoes,Nike
+TXN000334,CUST013,ITEM017,1706409083.761613,4,Credit Card,1801.82,1,1801.82,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Juice,Nestle
+TXN000335,CUST013,ITEM029,1704710237.761743,1,Mobile Payment,834.73,5,4173.65,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Soft Drink,Coca-Cola
+TXN000336,CUST013,ITEM077,1714679456.761858,5,Mobile Payment,1152.25,6,6913.5,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Electronics,Audio,Philips
+TXN000337,CUST013,ITEM013,1711539037.761973,3,Credit Card,1686.93,3,5060.79,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Household,Lighting,Home Depot
+TXN000338,CUST013,ITEM024,1682786633.762087,4,Mobile Payment,543.54,9,4891.86,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Dress,Zara
+TXN000339,CUST013,ITEM048,1680848485.762199,4,Mobile Payment,550.39,3,1651.17,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Juice,Juhayna
+TXN000340,CUST013,ITEM023,1690249123.762312,5,Cash,1525.05,6,9150.3,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Shirt,Zara
+TXN000341,CUST013,ITEM090,1702310893.762454,2,Credit Card,588.62,6,3531.7200000000003,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Health,Oral Care,Oral-B
+TXN000342,CUST013,ITEM030,1684735128.762582,1,Credit Card,1644.39,9,14799.51,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Clothing,Shoes,Adidas
+TXN000343,CUST013,ITEM027,1674115577.76271,4,Credit Card,13.17,1,13.17,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Books,Literature,Random House
+TXN000344,CUST013,ITEM005,1722007526.762825,5,Cash,1957.93,2,3915.86,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Audio Devices,Headphones,Samsung
+TXN000345,CUST013,ITEM093,1731073351.762942,5,Cash,1634.17,3,4902.51,Jennifer Summers,cust013@gmail.com,Egypt,24,Female,Grocery,Mayonnaise,Heinz
+TXN000346,CUST014,ITEM066,1721483862.763068,5,Mobile Payment,582.28,5,2911.3999999999996,April Snyder,cust014@gmail.com,Egypt,42,Female,Grocery,Sunflower Oil,Afia
+TXN000347,CUST014,ITEM080,1684100083.763182,5,Credit Card,108.08,1,108.08,April Snyder,cust014@gmail.com,Egypt,42,Female,Household,Home Appliances,Haier
+TXN000348,CUST014,ITEM003,1730855095.763294,5,Mobile Payment,10.15,8,81.2,April Snyder,cust014@gmail.com,Egypt,42,Female,Clothing,Jacket,Nike
+TXN000349,CUST014,ITEM024,1720161853.763442,5,Cash,1936.89,1,1936.89,April Snyder,cust014@gmail.com,Egypt,42,Female,Clothing,Dress,Zara
+TXN000350,CUST014,ITEM036,1694441169.763572,2,Cash,53.19,2,106.38,April Snyder,cust014@gmail.com,Egypt,42,Female,Home Appliances,Bathroom,IKEA
+TXN000351,CUST014,ITEM094,1713009721.763688,4,Mobile Payment,590.28,5,2951.3999999999996,April Snyder,cust014@gmail.com,Egypt,42,Female,Health,Personal Care,Unilever
+TXN000352,CUST014,ITEM006,1696611186.763801,4,Mobile Payment,337.96,4,1351.84,April Snyder,cust014@gmail.com,Egypt,42,Female,Electronics,Television,Samsung
+TXN000353,CUST014,ITEM024,1682838164.763914,3,Mobile Payment,341.14,5,1705.6999999999998,April Snyder,cust014@gmail.com,Egypt,42,Female,Clothing,Dress,Zara
+TXN000354,CUST014,ITEM028,1676225481.76403,4,Mobile Payment,1738.77,6,10432.619999999999,April Snyder,cust014@gmail.com,Egypt,42,Female,Books,Thriller,Random House
+TXN000355,CUST014,ITEM011,1731471554.764172,5,Mobile Payment,1620.33,4,6481.32,April Snyder,cust014@gmail.com,Egypt,42,Female,Household,Tools,Home Depot
+TXN000356,CUST014,ITEM035,1681412018.764289,5,Cash,737.7,3,2213.1000000000004,April Snyder,cust014@gmail.com,Egypt,42,Female,Home Appliances,Kitchen,IKEA
+TXN000357,CUST014,ITEM033,1700670604.764433,2,Cash,377.63,9,3398.67,April Snyder,cust014@gmail.com,Egypt,42,Female,Grocery,Soft Drink,Pepsi
+TXN000358,CUST014,ITEM004,1709496617.764564,2,Mobile Payment,1166.73,7,8167.110000000001,April Snyder,cust014@gmail.com,Egypt,42,Female,Clothing,Shorts,Nike
+TXN000359,CUST014,ITEM007,1700844444.764679,4,Mobile Payment,468.5,5,2342.5,April Snyder,cust014@gmail.com,Egypt,42,Female,Electronics,Tablet,Samsung
+TXN000360,CUST014,ITEM059,1713847987.764803,2,Mobile Payment,1949.7,2,3899.4,April Snyder,cust014@gmail.com,Egypt,42,Female,Pharmacy,Healthcare,Eva Cosmetics
+TXN000361,CUST014,ITEM070,1730751716.764916,5,Credit Card,294.53,9,2650.7699999999995,April Snyder,cust014@gmail.com,Egypt,42,Female,Computers,Laptop,Dell
+TXN000362,CUST014,ITEM061,1690229216.765029,2,Credit Card,1043.07,7,7301.49,April Snyder,cust014@gmail.com,Egypt,42,Female,Pharmacy,Healthcare,Herbel Essence
+TXN000363,CUST014,ITEM050,1676967422.765142,4,Credit Card,1642.72,2,3285.44,April Snyder,cust014@gmail.com,Egypt,42,Female,Grocery,Juice,Faragalla
+TXN000364,CUST015,ITEM088,1681663385.765263,5,Mobile Payment,748.24,7,5237.68,Dana Nguyen,cust015@gmail.com,Egypt,42,Male,Health,Body Care,Dove
+TXN000365,CUST015,ITEM049,1683767030.765396,3,Credit Card,823.95,1,823.95,Dana Nguyen,cust015@gmail.com,Egypt,42,Male,Grocery,Milk,Faragalla
+TXN000366,CUST015,ITEM065,1701771603.765524,5,Mobile Payment,1840.26,8,14722.08,Dana Nguyen,cust015@gmail.com,Egypt,42,Male,Grocery,Sesame Oil,Afia
+TXN000367,CUST015,ITEM052,1679877127.765641,5,Cash,1419.07,9,12771.63,Dana Nguyen,cust015@gmail.com,Egypt,42,Male,Meat,Meat,Halwani Bros
+TXN000368,CUST015,ITEM048,1700349377.765754,4,Cash,809.67,2,1619.34,Dana Nguyen,cust015@gmail.com,Egypt,42,Male,Grocery,Juice,Juhayna
+TXN000369,CUST016,ITEM044,1718668783.765872,5,Mobile Payment,1083.68,3,3251.04,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Household,Fridge,LG
+TXN000370,CUST016,ITEM063,1705745837.765996,3,Credit Card,1081.35,2,2162.7,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Meat,Meat,Panda
+TXN000371,CUST016,ITEM090,1726895429.766112,2,Mobile Payment,55.7,9,501.3,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Health,Oral Care,Oral-B
+TXN000372,CUST016,ITEM042,1703991371.766226,5,Mobile Payment,1931.79,8,15454.32,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Household,Decorations,Bed Bath & Beyond
+TXN000373,CUST016,ITEM041,1685697551.766339,1,Credit Card,1184.66,8,9477.28,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000374,CUST016,ITEM007,1680319894.766489,5,Cash,643.62,6,3861.7200000000003,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Electronics,Tablet,Samsung
+TXN000375,CUST016,ITEM068,1708270053.766607,2,Credit Card,1662.09,8,13296.72,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Grocery,Sesame Oil,Crystal
+TXN000376,CUST016,ITEM040,1694433472.766721,4,Credit Card,1913.22,9,17218.98,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000377,CUST016,ITEM074,1723500216.766836,4,Credit Card,1228.24,7,8597.68,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Electronics,Television,Sony
+TXN000378,CUST016,ITEM086,1704435173.766949,4,Mobile Payment,1720.48,2,3440.96,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Beauty,Haircare,Pantene
+TXN000379,CUST016,ITEM028,1671247045.767063,4,Credit Card,69.28,8,554.24,Cheryl Bradley,cust016@gmail.com,Egypt,30,Female,Books,Thriller,Random House
+TXN000380,CUST017,ITEM044,1679600251.767184,4,Mobile Payment,1581.18,2,3162.36,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Household,Fridge,LG
+TXN000381,CUST017,ITEM075,1675021825.767298,5,Cash,1174.25,4,4697.0,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Gaming,Xbox,Microsoft
+TXN000382,CUST017,ITEM040,1713886759.767436,5,Credit Card,418.73,9,3768.57,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000383,CUST017,ITEM064,1695285625.767577,1,Mobile Payment,213.12,6,1278.72,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Olive Oil,Afia
+TXN000384,CUST017,ITEM086,1698075768.767694,3,Credit Card,1225.02,4,4900.08,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Beauty,Haircare,Pantene
+TXN000385,CUST017,ITEM068,1692459502.767809,5,Credit Card,1155.51,4,4622.04,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Sesame Oil,Crystal
+TXN000386,CUST017,ITEM087,1691167311.767922,5,Cash,1128.1,3,3384.2999999999997,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Beauty,Haircare,Dove
+TXN000387,CUST017,ITEM095,1695030866.768052,4,Cash,565.67,9,5091.03,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Kitchen,Household,Procter & Gamble
+TXN000388,CUST017,ITEM042,1709971221.768169,4,Cash,885.09,1,885.09,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Household,Decorations,Bed Bath & Beyond
+TXN000389,CUST017,ITEM032,1713757774.768282,2,Credit Card,776.48,8,6211.84,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Clothing,Jacket,Adidas
+TXN000390,CUST017,ITEM063,1703124354.768418,5,Mobile Payment,482.04,7,3374.28,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Meat,Panda
+TXN000391,CUST017,ITEM026,1704400932.768549,1,Cash,1860.06,6,11160.36,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Books,Fiction,Random House
+TXN000392,CUST017,ITEM039,1671668144.768664,3,Mobile Payment,713.45,9,6421.05,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Electronics,Electronics,B.TECH
+TXN000393,CUST017,ITEM030,1713738240.768777,5,Cash,909.33,1,909.33,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Clothing,Shoes,Adidas
+TXN000394,CUST017,ITEM079,1717555761.768889,3,Cash,1555.73,2,3111.46,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Household,Home Appliances,Siemens
+TXN000395,CUST017,ITEM054,1679900920.769003,4,Cash,1179.68,9,10617.12,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Meat,Atayb
+TXN000396,CUST017,ITEM021,1713446951.769135,1,Mobile Payment,1919.24,1,1919.24,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Computers,Laptop,Apple
+TXN000397,CUST017,ITEM050,1671614862.769344,5,Mobile Payment,1928.54,5,9642.7,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Juice,Faragalla
+TXN000398,CUST017,ITEM076,1672629041.769627,5,Cash,1037.95,9,9341.550000000001,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Electronics,TV,Philips
+TXN000399,CUST017,ITEM028,1724157690.769767,5,Mobile Payment,1926.56,9,17339.04,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Books,Thriller,Random House
+TXN000400,CUST017,ITEM016,1728707188.76989,2,Credit Card,1159.64,1,1159.64,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Coffee,Nestle
+TXN000401,CUST017,ITEM063,1721463933.770024,4,Credit Card,1223.63,8,9789.04,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Meat,Panda
+TXN000402,CUST017,ITEM066,1714607881.770148,5,Mobile Payment,1377.83,9,12400.47,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Sunflower Oil,Afia
+TXN000403,CUST017,ITEM062,1706958959.770275,5,Mobile Payment,1279.79,6,7678.74,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Chicken,Panda
+TXN000404,CUST017,ITEM053,1727742582.770425,3,Cash,1821.16,5,9105.800000000001,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Chicken,Atayb
+TXN000405,CUST017,ITEM039,1678600133.770573,1,Mobile Payment,549.02,8,4392.16,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Electronics,Electronics,B.TECH
+TXN000406,CUST017,ITEM016,1701642484.770693,3,Mobile Payment,409.0,5,2045.0,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Coffee,Nestle
+TXN000407,CUST017,ITEM053,1706819269.770809,3,Credit Card,850.59,5,4252.95,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Chicken,Atayb
+TXN000408,CUST017,ITEM045,1730247529.770925,4,Mobile Payment,843.6,8,6748.8,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Household,Washing Machine,LG
+TXN000409,CUST017,ITEM029,1690460576.771043,5,Mobile Payment,1415.68,2,2831.36,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Soft Drink,Coca-Cola
+TXN000410,CUST017,ITEM069,1725648551.771172,1,Cash,499.24,3,1497.72,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Sunflower Oil,Crystal
+TXN000411,CUST017,ITEM086,1678894728.771292,1,Credit Card,954.8,7,6683.599999999999,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Beauty,Haircare,Pantene
+TXN000412,CUST017,ITEM018,1680372728.771435,5,Mobile Payment,929.09,7,6503.63,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Chocolate,Galaxy
+TXN000413,CUST017,ITEM051,1700827282.77157,2,Cash,1008.17,1,1008.17,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Meat,Chicken,Halwani Bros
+TXN000414,CUST017,ITEM090,1673266081.771689,3,Mobile Payment,476.75,3,1430.25,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Health,Oral Care,Oral-B
+TXN000415,CUST017,ITEM065,1676769097.771805,2,Credit Card,215.08,5,1075.4,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Sesame Oil,Afia
+TXN000416,CUST017,ITEM019,1689015091.771923,5,Mobile Payment,738.57,4,2954.28,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Grocery,Snacks,Galaxy
+TXN000417,CUST017,ITEM035,1700551387.772333,1,Mobile Payment,1860.4,8,14883.2,Walter Pratt,cust017@gmail.com,Egypt,19,Male,Home Appliances,Kitchen,IKEA
+TXN000418,CUST018,ITEM094,1707098328.772675,5,Mobile Payment,661.25,4,2645.0,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Health,Personal Care,Unilever
+TXN000419,CUST018,ITEM071,1673982124.772873,4,Cash,1861.49,4,7445.96,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Computers,Laptop,HP
+TXN000420,CUST018,ITEM004,1697471567.773045,5,Mobile Payment,510.53,1,510.53,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Clothing,Shorts,Nike
+TXN000421,CUST018,ITEM072,1679683901.773194,3,Cash,844.12,5,4220.6,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Computers,Laptop,Lenovo
+TXN000422,CUST018,ITEM041,1701544599.773323,5,Credit Card,1845.19,6,11071.14,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000423,CUST018,ITEM075,1730779923.773503,4,Cash,806.29,3,2418.87,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Gaming,Xbox,Microsoft
+TXN000424,CUST018,ITEM042,1669782546.773647,3,Credit Card,43.02,5,215.10000000000002,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Household,Decorations,Bed Bath & Beyond
+TXN000425,CUST018,ITEM020,1721734082.773771,5,Mobile Payment,750.15,8,6001.2,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Electronics,Smartphone,Apple
+TXN000426,CUST018,ITEM083,1702668685.773894,4,Credit Card,456.62,3,1369.8600000000001,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Beauty,Skincare,LOreal
+TXN000427,CUST018,ITEM015,1705218791.774014,4,Credit Card,292.32,8,2338.56,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Water,Nestle
+TXN000428,CUST018,ITEM077,1726478752.77414,4,Mobile Payment,1141.43,6,6848.58,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Electronics,Audio,Philips
+TXN000429,CUST018,ITEM088,1700528688.774263,3,Credit Card,1633.08,3,4899.24,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Health,Body Care,Dove
+TXN000430,CUST018,ITEM055,1709168977.774415,4,Cash,380.56,2,761.12,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Meat,Chicken,Sadia
+TXN000431,CUST018,ITEM018,1711509180.774545,5,Credit Card,1774.5,4,7098.0,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Chocolate,Galaxy
+TXN000432,CUST018,ITEM075,1693663342.774681,1,Cash,1222.23,2,2444.46,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Gaming,Xbox,Microsoft
+TXN000433,CUST018,ITEM044,1722156218.774803,4,Mobile Payment,280.19,7,1961.33,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Household,Fridge,LG
+TXN000434,CUST018,ITEM018,1672428711.77492,5,Cash,70.27,8,562.16,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Chocolate,Galaxy
+TXN000435,CUST018,ITEM049,1727526536.775039,1,Cash,393.83,5,1969.1499999999999,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Milk,Faragalla
+TXN000436,CUST018,ITEM093,1715227524.775179,5,Mobile Payment,1789.4,1,1789.4,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Mayonnaise,Heinz
+TXN000437,CUST018,ITEM008,1705310592.775307,5,Mobile Payment,941.66,1,941.66,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Books,Fiction,Penguin Books
+TXN000438,CUST018,ITEM053,1700851111.775467,2,Cash,79.86,7,559.02,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Meat,Chicken,Atayb
+TXN000439,CUST018,ITEM087,1701457940.775592,5,Cash,1546.4,7,10824.800000000001,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Beauty,Haircare,Dove
+TXN000440,CUST018,ITEM039,1728339458.775725,5,Cash,202.46,2,404.92,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Electronics,Electronics,B.TECH
+TXN000441,CUST018,ITEM055,1695492331.775855,1,Credit Card,671.53,2,1343.06,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Meat,Chicken,Sadia
+TXN000442,CUST018,ITEM032,1723419882.775978,5,Credit Card,1440.96,3,4322.88,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Clothing,Jacket,Adidas
+TXN000443,CUST018,ITEM039,1697839385.776097,5,Cash,1204.94,3,3614.82,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Electronics,Electronics,B.TECH
+TXN000444,CUST018,ITEM069,1709303364.776216,5,Mobile Payment,526.84,3,1580.52,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Sunflower Oil,Crystal
+TXN000445,CUST018,ITEM093,1711608044.776333,1,Credit Card,1499.82,1,1499.82,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Mayonnaise,Heinz
+TXN000446,CUST018,ITEM018,1717446749.776524,1,Cash,25.75,7,180.25,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Chocolate,Galaxy
+TXN000447,CUST018,ITEM010,1670864879.776646,2,Credit Card,762.17,5,3810.85,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Books,Literature,Penguin Books
+TXN000448,CUST018,ITEM008,1726133683.776765,5,Mobile Payment,926.59,6,5559.54,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Books,Fiction,Penguin Books
+TXN000449,CUST018,ITEM014,1712895570.776891,3,Mobile Payment,1243.35,9,11190.15,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Household,Furniture,Home Depot
+TXN000450,CUST018,ITEM096,1699904952.777011,4,Credit Card,354.03,3,1062.09,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Health,Personal Care,Procter & Gamble
+TXN000451,CUST018,ITEM026,1715267361.777139,4,Cash,1589.88,2,3179.76,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Books,Fiction,Random House
+TXN000452,CUST018,ITEM093,1726073803.777261,5,Mobile Payment,1194.35,4,4777.4,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Mayonnaise,Heinz
+TXN000453,CUST018,ITEM060,1678462611.777434,3,Cash,1603.51,7,11224.57,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Pharmacy,Shampoo,Herbel Essence
+TXN000454,CUST018,ITEM007,1672352717.777564,5,Cash,697.09,1,697.09,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Electronics,Tablet,Samsung
+TXN000455,CUST018,ITEM068,1714027679.777682,4,Credit Card,539.47,1,539.47,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Sesame Oil,Crystal
+TXN000456,CUST018,ITEM090,1684764979.777808,4,Cash,1910.7,5,9553.5,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Health,Oral Care,Oral-B
+TXN000457,CUST018,ITEM015,1714491201.777929,5,Cash,523.34,3,1570.02,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Grocery,Water,Nestle
+TXN000458,CUST018,ITEM044,1699669641.778049,1,Mobile Payment,267.25,6,1603.5,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Household,Fridge,LG
+TXN000459,CUST018,ITEM021,1669720768.778165,5,Credit Card,1006.38,5,5031.9,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Computers,Laptop,Apple
+TXN000460,CUST018,ITEM005,1711646585.778281,3,Cash,945.4,8,7563.2,Bobby Flores,cust018@gmail.com,Egypt,56,Male,Audio Devices,Headphones,Samsung
+TXN000461,CUST019,ITEM078,1678893284.778455,2,Cash,865.15,3,2595.45,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Household,Home Appliances,Bosch
+TXN000462,CUST019,ITEM001,1690974653.778579,2,Credit Card,390.49,4,1561.96,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,Shoes,Nike
+TXN000463,CUST019,ITEM038,1692373036.778716,4,Mobile Payment,1986.88,1,1986.88,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Household,Washing Machine,B.TECH
+TXN000464,CUST019,ITEM076,1698990336.778836,4,Credit Card,249.57,7,1746.99,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Electronics,TV,Philips
+TXN000465,CUST019,ITEM021,1729819847.778951,2,Cash,1946.14,2,3892.28,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Computers,Laptop,Apple
+TXN000466,CUST019,ITEM065,1724041594.779066,5,Credit Card,795.04,2,1590.08,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Sesame Oil,Afia
+TXN000467,CUST019,ITEM035,1720585989.779188,4,Cash,1233.33,2,2466.66,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Home Appliances,Kitchen,IKEA
+TXN000468,CUST019,ITEM073,1677663880.779304,4,Mobile Payment,1516.69,4,6066.76,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Gaming,Playstation,Sony
+TXN000469,CUST019,ITEM086,1714850386.779452,5,Mobile Payment,39.18,2,78.36,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Haircare,Pantene
+TXN000470,CUST019,ITEM064,1698758182.779571,3,Credit Card,535.77,5,2678.85,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Olive Oil,Afia
+TXN000471,CUST019,ITEM055,1678624849.779686,3,Credit Card,818.01,1,818.01,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Meat,Chicken,Sadia
+TXN000472,CUST019,ITEM016,1710917855.779799,5,Credit Card,1394.82,6,8368.92,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Coffee,Nestle
+TXN000473,CUST019,ITEM031,1731687453.779914,2,Mobile Payment,801.48,6,4808.88,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,T-shirt,Adidas
+TXN000474,CUST019,ITEM008,1691550722.780027,4,Credit Card,854.77,9,7692.93,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Books,Fiction,Penguin Books
+TXN000475,CUST019,ITEM066,1670340842.780141,5,Cash,685.05,2,1370.1,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Sunflower Oil,Afia
+TXN000476,CUST019,ITEM065,1716857121.780269,3,Cash,1588.87,8,12710.96,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Sesame Oil,Afia
+TXN000477,CUST019,ITEM027,1679960840.780436,3,Credit Card,1043.01,9,9387.09,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Books,Literature,Random House
+TXN000478,CUST019,ITEM040,1705625779.780562,5,Credit Card,592.84,9,5335.56,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000479,CUST019,ITEM031,1717420224.780683,2,Cash,1538.08,8,12304.64,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,T-shirt,Adidas
+TXN000480,CUST019,ITEM072,1715362981.780798,2,Cash,1587.18,5,7935.900000000001,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Computers,Laptop,Lenovo
+TXN000481,CUST019,ITEM033,1721313094.780913,5,Cash,1710.74,8,13685.92,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Soft Drink,Pepsi
+TXN000482,CUST019,ITEM004,1669169531.781047,5,Mobile Payment,1930.58,4,7722.32,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,Shorts,Nike
+TXN000483,CUST019,ITEM002,1688095898.781189,1,Mobile Payment,891.3,1,891.3,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,T-shirt,Nike
+TXN000484,CUST019,ITEM040,1679808817.781307,4,Mobile Payment,47.96,8,383.68,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000485,CUST019,ITEM072,1680727206.781468,1,Mobile Payment,1991.7,6,11950.2,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Computers,Laptop,Lenovo
+TXN000486,CUST019,ITEM082,1687235316.781586,5,Credit Card,1629.03,3,4887.09,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Haircare,LOreal
+TXN000487,CUST019,ITEM058,1672759941.781706,5,Cash,1301.51,1,1301.51,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000488,CUST019,ITEM049,1713221483.781822,4,Mobile Payment,1324.99,5,6624.95,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Milk,Faragalla
+TXN000489,CUST019,ITEM051,1688247461.781967,4,Mobile Payment,1136.35,2,2272.7,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Meat,Chicken,Halwani Bros
+TXN000490,CUST019,ITEM032,1673817406.782086,5,Cash,152.75,5,763.75,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,Jacket,Adidas
+TXN000491,CUST019,ITEM043,1718436436.7822,4,Mobile Payment,95.34,8,762.72,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Electronics,Air Conditioner,LG
+TXN000492,CUST019,ITEM069,1698297869.782313,5,Mobile Payment,1770.78,1,1770.78,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Sunflower Oil,Crystal
+TXN000493,CUST019,ITEM081,1683336110.782775,5,Mobile Payment,448.81,7,3141.67,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Makeup,LOreal
+TXN000494,CUST019,ITEM055,1709405868.78297,2,Credit Card,515.17,5,2575.85,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Meat,Chicken,Sadia
+TXN000495,CUST019,ITEM082,1727259129.783117,3,Credit Card,845.0,7,5915.0,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Haircare,LOreal
+TXN000496,CUST019,ITEM037,1677347914.783248,5,Credit Card,1681.99,1,1681.99,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Home Appliances,Bedding,IKEA
+TXN000497,CUST019,ITEM002,1728155775.783418,1,Mobile Payment,1588.13,9,14293.170000000002,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,T-shirt,Nike
+TXN000498,CUST019,ITEM047,1690354396.783562,4,Credit Card,1222.21,9,10999.89,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Grocery,Milk,Juhayna
+TXN000499,CUST019,ITEM081,1717166500.783696,4,Cash,1836.83,3,5510.49,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Makeup,LOreal
+TXN000500,CUST019,ITEM023,1699803265.783838,1,Cash,1494.07,8,11952.56,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,Shirt,Zara
+TXN000501,CUST019,ITEM084,1685942867.783965,5,Credit Card,939.55,5,4697.75,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Makeup,Maybelline
+TXN000502,CUST019,ITEM009,1687211268.784111,1,Mobile Payment,1877.96,9,16901.64,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Books,Non-Fiction,Penguin Books
+TXN000503,CUST019,ITEM056,1726393396.784241,1,Cash,671.15,9,6040.349999999999,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Meat,Meat,Sadia
+TXN000504,CUST019,ITEM057,1731352847.784384,5,Mobile Payment,1965.78,7,13760.46,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000505,CUST019,ITEM087,1690937539.784522,5,Cash,1184.94,4,4739.76,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Beauty,Haircare,Dove
+TXN000506,CUST019,ITEM030,1669330757.784648,4,Credit Card,155.66,2,311.32,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Clothing,Shoes,Adidas
+TXN000507,CUST019,ITEM034,1723141066.784782,2,Credit Card,1228.73,6,7372.38,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Household,Furniture,IKEA
+TXN000508,CUST019,ITEM095,1704985668.784905,4,Cash,911.69,9,8205.210000000001,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Kitchen,Household,Procter & Gamble
+TXN000509,CUST019,ITEM094,1732166918.785026,4,Cash,1723.05,5,8615.25,Tasha Rodriguez,cust019@gmail.com,Egypt,57,Male,Health,Personal Care,Unilever
+TXN000510,CUST020,ITEM054,1670683976.785155,5,Cash,251.11,9,2259.9900000000002,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Meat,Meat,Atayb
+TXN000511,CUST020,ITEM044,1672284834.78528,5,Credit Card,167.2,9,1504.8,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Household,Fridge,LG
+TXN000512,CUST020,ITEM092,1678936409.785437,4,Cash,242.45,6,1454.6999999999998,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Ketchup,Heinz
+TXN000513,CUST020,ITEM047,1705266845.785589,3,Credit Card,1060.33,9,9542.97,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Milk,Juhayna
+TXN000514,CUST020,ITEM008,1677766835.785727,5,Cash,1809.93,4,7239.72,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Books,Fiction,Penguin Books
+TXN000515,CUST020,ITEM029,1671331622.785853,5,Credit Card,625.29,3,1875.87,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Soft Drink,Coca-Cola
+TXN000516,CUST020,ITEM004,1711448549.785985,4,Credit Card,1225.34,9,11028.06,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Clothing,Shorts,Nike
+TXN000517,CUST020,ITEM050,1708317476.78611,4,Mobile Payment,1809.53,6,10857.18,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Juice,Faragalla
+TXN000518,CUST020,ITEM048,1732189481.78623,2,Credit Card,1248.74,3,3746.2200000000003,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Juice,Juhayna
+TXN000519,CUST020,ITEM054,1707488854.786368,2,Credit Card,590.38,6,3542.2799999999997,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Meat,Meat,Atayb
+TXN000520,CUST020,ITEM009,1701886966.786508,5,Mobile Payment,278.87,7,1952.0900000000001,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Books,Non-Fiction,Penguin Books
+TXN000521,CUST020,ITEM015,1706565251.786775,3,Credit Card,1427.29,2,2854.58,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Grocery,Water,Nestle
+TXN000522,CUST020,ITEM041,1687772318.786925,4,Mobile Payment,1978.52,2,3957.04,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000523,CUST020,ITEM011,1677951197.787047,5,Credit Card,1034.1,4,4136.4,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Household,Tools,Home Depot
+TXN000524,CUST020,ITEM094,1700093474.787171,5,Cash,195.49,9,1759.41,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Health,Personal Care,Unilever
+TXN000525,CUST020,ITEM081,1673739580.787288,1,Cash,217.14,7,1519.98,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Beauty,Makeup,LOreal
+TXN000526,CUST020,ITEM042,1690188188.787432,5,Mobile Payment,1470.81,9,13237.289999999999,Michelle Kelley,cust020@gmail.com,Egypt,41,Female,Household,Decorations,Bed Bath & Beyond
+TXN000527,CUST021,ITEM021,1682303056.78757,4,Cash,820.86,1,820.86,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Computers,Laptop,Apple
+TXN000528,CUST021,ITEM092,1695316206.787701,5,Cash,1735.9,3,5207.700000000001,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Ketchup,Heinz
+TXN000529,CUST021,ITEM032,1674813465.787839,5,Cash,1741.67,7,12191.69,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Clothing,Jacket,Adidas
+TXN000530,CUST021,ITEM042,1705388158.78796,3,Mobile Payment,466.2,5,2331.0,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Household,Decorations,Bed Bath & Beyond
+TXN000531,CUST021,ITEM071,1699169481.788075,4,Cash,254.8,1,254.8,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Computers,Laptop,HP
+TXN000532,CUST021,ITEM035,1686685211.788189,2,Cash,1765.72,8,14125.76,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Home Appliances,Kitchen,IKEA
+TXN000533,CUST021,ITEM043,1695109278.788304,4,Cash,1120.82,2,2241.64,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Electronics,Air Conditioner,LG
+TXN000534,CUST021,ITEM024,1685487831.78844,4,Credit Card,1318.46,2,2636.92,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Clothing,Dress,Zara
+TXN000535,CUST021,ITEM081,1696291888.788562,1,Cash,627.66,2,1255.32,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Beauty,Makeup,LOreal
+TXN000536,CUST021,ITEM032,1679563040.788677,3,Cash,338.33,7,2368.31,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Clothing,Jacket,Adidas
+TXN000537,CUST021,ITEM076,1712730497.788802,5,Credit Card,154.63,8,1237.04,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Electronics,TV,Philips
+TXN000538,CUST021,ITEM026,1724481215.788917,5,Credit Card,1837.87,1,1837.87,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Books,Fiction,Random House
+TXN000539,CUST021,ITEM058,1690370559.78903,5,Mobile Payment,224.62,1,224.62,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Pharmacy,Shampoo,Eva Cosmetics
+TXN000540,CUST021,ITEM025,1682178064.789146,4,Mobile Payment,1900.33,9,17102.97,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Clothing,Jacket,Zara
+TXN000541,CUST021,ITEM095,1712738691.78926,4,Mobile Payment,1007.89,4,4031.56,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Kitchen,Household,Procter & Gamble
+TXN000542,CUST021,ITEM087,1717213957.789408,2,Cash,1395.16,5,6975.8,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Beauty,Haircare,Dove
+TXN000543,CUST021,ITEM060,1694112020.789533,2,Cash,1652.35,3,4957.049999999999,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000544,CUST021,ITEM066,1691475600.789648,3,Mobile Payment,1604.07,1,1604.07,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Sunflower Oil,Afia
+TXN000545,CUST021,ITEM034,1729726683.789773,2,Cash,1269.44,5,6347.200000000001,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Household,Furniture,IKEA
+TXN000546,CUST021,ITEM028,1718368102.789888,4,Credit Card,144.81,1,144.81,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Books,Thriller,Random House
+TXN000547,CUST021,ITEM074,1677104066.790002,5,Credit Card,1156.39,5,5781.950000000001,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Electronics,Television,Sony
+TXN000548,CUST021,ITEM008,1669669061.790115,5,Cash,1225.42,6,7352.52,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Books,Fiction,Penguin Books
+TXN000549,CUST021,ITEM069,1700409479.790228,4,Cash,837.42,2,1674.84,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Sunflower Oil,Crystal
+TXN000550,CUST021,ITEM092,1671411818.790339,5,Credit Card,1300.45,5,6502.25,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Ketchup,Heinz
+TXN000551,CUST021,ITEM050,1683577749.790481,4,Cash,1565.74,8,12525.92,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Juice,Faragalla
+TXN000552,CUST021,ITEM094,1718416783.790598,1,Mobile Payment,594.84,8,4758.72,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Health,Personal Care,Unilever
+TXN000553,CUST021,ITEM004,1683004378.79072,1,Cash,1716.2,2,3432.4,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Clothing,Shorts,Nike
+TXN000554,CUST021,ITEM095,1699400317.790838,5,Credit Card,1933.93,8,15471.44,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Kitchen,Household,Procter & Gamble
+TXN000555,CUST021,ITEM044,1674059350.790964,5,Cash,740.23,3,2220.69,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Household,Fridge,LG
+TXN000556,CUST021,ITEM086,1676730009.79108,5,Mobile Payment,642.88,9,5785.92,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Beauty,Haircare,Pantene
+TXN000557,CUST021,ITEM048,1714684583.791193,5,Cash,1979.63,3,5938.89,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Grocery,Juice,Juhayna
+TXN000558,CUST021,ITEM056,1690547597.791305,3,Credit Card,776.03,7,5432.21,Kimberly Maynard,cust021@gmail.com,Egypt,64,Female,Meat,Meat,Sadia
+TXN000559,CUST022,ITEM084,1713517823.791448,5,Cash,990.91,5,4954.55,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Beauty,Makeup,Maybelline
+TXN000560,CUST022,ITEM021,1718187974.79157,5,Mobile Payment,369.14,6,2214.84,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Computers,Laptop,Apple
+TXN000561,CUST022,ITEM071,1675617055.791683,5,Credit Card,1004.75,6,6028.5,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Computers,Laptop,HP
+TXN000562,CUST022,ITEM068,1672828528.791807,5,Mobile Payment,1350.87,5,6754.349999999999,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Grocery,Sesame Oil,Crystal
+TXN000563,CUST022,ITEM056,1703519546.791922,5,Cash,1332.36,4,5329.44,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Meat,Meat,Sadia
+TXN000564,CUST022,ITEM041,1699502517.792035,5,Credit Card,56.59,7,396.13,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000565,CUST022,ITEM095,1685679562.792148,4,Credit Card,1220.3,7,8542.1,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Kitchen,Household,Procter & Gamble
+TXN000566,CUST022,ITEM067,1679069128.792275,1,Mobile Payment,1810.95,9,16298.550000000001,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Grocery,Olive Oil,Crystal
+TXN000567,CUST022,ITEM029,1731729837.792418,3,Credit Card,19.36,8,154.88,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Grocery,Soft Drink,Coca-Cola
+TXN000568,CUST022,ITEM073,1673743567.792604,1,Credit Card,758.0,5,3790.0,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Gaming,Playstation,Sony
+TXN000569,CUST022,ITEM034,1671554505.792741,1,Cash,1087.85,3,3263.5499999999997,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Household,Furniture,IKEA
+TXN000570,CUST022,ITEM089,1698034936.792862,5,Cash,1400.27,5,7001.35,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Beauty,Skincare,Nivea
+TXN000571,CUST022,ITEM059,1706402067.792993,5,Cash,1125.14,6,6750.84,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Pharmacy,Healthcare,Eva Cosmetics
+TXN000572,CUST022,ITEM025,1671314048.793108,3,Cash,29.28,8,234.24,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Clothing,Jacket,Zara
+TXN000573,CUST022,ITEM024,1687271645.793222,4,Cash,1628.95,6,9773.7,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Clothing,Dress,Zara
+TXN000574,CUST022,ITEM026,1704444472.793347,4,Cash,202.03,3,606.09,Laurie Wallace,cust022@gmail.com,Egypt,42,Male,Books,Fiction,Random House
+TXN000575,CUST023,ITEM088,1729114493.793501,2,Mobile Payment,1275.58,1,1275.58,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Health,Body Care,Dove
+TXN000576,CUST023,ITEM018,1700960729.793619,5,Credit Card,376.29,2,752.58,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Grocery,Chocolate,Galaxy
+TXN000577,CUST023,ITEM042,1682652578.793741,4,Mobile Payment,1538.79,2,3077.58,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Household,Decorations,Bed Bath & Beyond
+TXN000578,CUST023,ITEM079,1676560427.793857,1,Credit Card,1227.45,1,1227.45,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Household,Home Appliances,Siemens
+TXN000579,CUST023,ITEM084,1704133358.79397,4,Mobile Payment,964.37,8,7714.96,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Beauty,Makeup,Maybelline
+TXN000580,CUST023,ITEM027,1698707072.794082,2,Mobile Payment,1621.19,8,12969.52,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Books,Literature,Random House
+TXN000581,CUST023,ITEM092,1727936279.794208,4,Mobile Payment,1531.07,1,1531.07,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Grocery,Ketchup,Heinz
+TXN000582,CUST023,ITEM067,1683027145.794335,5,Cash,1206.31,7,8444.17,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Grocery,Olive Oil,Crystal
+TXN000583,CUST023,ITEM015,1702994092.794477,4,Credit Card,1357.65,1,1357.65,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Grocery,Water,Nestle
+TXN000584,CUST023,ITEM025,1680629406.794593,3,Cash,559.78,8,4478.24,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Clothing,Jacket,Zara
+TXN000585,CUST023,ITEM057,1676427718.794706,3,Mobile Payment,897.49,7,6282.43,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000586,CUST023,ITEM004,1677792083.794833,4,Credit Card,790.44,9,7113.960000000001,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Clothing,Shorts,Nike
+TXN000587,CUST023,ITEM067,1679799879.794946,5,Mobile Payment,1942.4,9,17481.600000000002,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Grocery,Olive Oil,Crystal
+TXN000588,CUST023,ITEM001,1698230877.795071,4,Mobile Payment,834.3,6,5005.799999999999,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Clothing,Shoes,Nike
+TXN000589,CUST023,ITEM024,1687816362.795187,5,Cash,743.63,3,2230.89,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Clothing,Dress,Zara
+TXN000590,CUST023,ITEM042,1716827677.79531,1,Credit Card,1497.68,5,7488.400000000001,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Household,Decorations,Bed Bath & Beyond
+TXN000591,CUST023,ITEM008,1686797231.795446,4,Cash,1835.01,1,1835.01,Janice Johnston,cust023@gmail.com,Egypt,35,Female,Books,Fiction,Penguin Books
+TXN000592,CUST024,ITEM064,1703131072.795574,5,Cash,854.77,1,854.77,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Grocery,Olive Oil,Afia
+TXN000593,CUST024,ITEM058,1689763110.795689,5,Cash,1674.59,2,3349.18,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000594,CUST024,ITEM005,1717942465.795815,4,Mobile Payment,120.16,3,360.48,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Audio Devices,Headphones,Samsung
+TXN000595,CUST024,ITEM076,1695008000.795941,4,Credit Card,483.95,4,1935.8,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Electronics,TV,Philips
+TXN000596,CUST024,ITEM007,1703225427.796055,1,Mobile Payment,346.45,6,2078.7,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Electronics,Tablet,Samsung
+TXN000597,CUST024,ITEM080,1680393726.796169,5,Mobile Payment,1277.78,1,1277.78,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Household,Home Appliances,Haier
+TXN000598,CUST024,ITEM038,1679391461.796281,1,Mobile Payment,1631.94,9,14687.460000000001,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Household,Washing Machine,B.TECH
+TXN000599,CUST024,ITEM001,1705805867.796417,4,Credit Card,1060.89,4,4243.56,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Clothing,Shoes,Nike
+TXN000600,CUST024,ITEM006,1698170021.796547,3,Mobile Payment,552.07,1,552.07,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Electronics,Television,Samsung
+TXN000601,CUST024,ITEM039,1674540039.79667,4,Credit Card,699.6,7,4897.2,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Electronics,Electronics,B.TECH
+TXN000602,CUST024,ITEM080,1707408266.796794,3,Cash,887.35,8,7098.8,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Household,Home Appliances,Haier
+TXN000603,CUST024,ITEM046,1695090663.796911,2,Cash,131.99,9,1187.91,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Electronics,Air Conditioner,Tushiba
+TXN000604,CUST024,ITEM063,1716107263.797025,5,Mobile Payment,675.74,9,6081.66,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Meat,Meat,Panda
+TXN000605,CUST024,ITEM029,1684482138.797149,1,Credit Card,731.08,6,4386.4800000000005,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Grocery,Soft Drink,Coca-Cola
+TXN000606,CUST024,ITEM051,1669366904.797266,3,Credit Card,1664.29,9,14978.61,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Meat,Chicken,Halwani Bros
+TXN000607,CUST024,ITEM060,1686146694.797437,5,Mobile Payment,1526.05,5,7630.25,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Pharmacy,Shampoo,Herbel Essence
+TXN000608,CUST024,ITEM085,1705651843.7976,1,Cash,1842.96,9,16586.64,Collin Lopez,cust024@gmail.com,Egypt,55,Male,Beauty,Makeup,Revlon
+TXN000609,CUST025,ITEM044,1708488450.797748,4,Credit Card,643.76,6,3862.56,Mary Alvarez,cust025@gmail.com,Egypt,43,Female,Household,Fridge,LG
+TXN000610,CUST025,ITEM096,1675380295.797877,5,Mobile Payment,1155.92,3,3467.76,Mary Alvarez,cust025@gmail.com,Egypt,43,Female,Health,Personal Care,Procter & Gamble
+TXN000611,CUST026,ITEM028,1728505354.797997,2,Mobile Payment,792.84,5,3964.2000000000003,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Books,Thriller,Random House
+TXN000612,CUST026,ITEM065,1708784798.798112,5,Cash,959.01,3,2877.0299999999997,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Sesame Oil,Afia
+TXN000613,CUST026,ITEM093,1691446419.798239,3,Credit Card,788.3,4,3153.2,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Mayonnaise,Heinz
+TXN000614,CUST026,ITEM090,1676781614.798369,1,Mobile Payment,806.09,7,5642.63,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Health,Oral Care,Oral-B
+TXN000615,CUST026,ITEM024,1722153277.798495,5,Mobile Payment,667.88,6,4007.2799999999997,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Clothing,Dress,Zara
+TXN000616,CUST026,ITEM040,1699956305.798612,4,Mobile Payment,799.67,4,3198.68,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000617,CUST026,ITEM047,1692152282.798893,3,Credit Card,558.57,4,2234.28,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Milk,Juhayna
+TXN000618,CUST026,ITEM009,1679143564.799187,1,Cash,167.68,5,838.4000000000001,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Books,Non-Fiction,Penguin Books
+TXN000619,CUST026,ITEM015,1669881075.799485,4,Mobile Payment,1858.0,9,16722.0,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Water,Nestle
+TXN000620,CUST026,ITEM052,1673303876.799716,5,Cash,453.77,9,4083.93,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Meat,Meat,Halwani Bros
+TXN000621,CUST026,ITEM067,1721970204.799897,4,Cash,1592.72,3,4778.16,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Olive Oil,Crystal
+TXN000622,CUST026,ITEM038,1723275192.800065,3,Credit Card,850.21,9,7651.89,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Washing Machine,B.TECH
+TXN000623,CUST026,ITEM012,1702162014.800197,3,Mobile Payment,874.26,1,874.26,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Decorations,Home Depot
+TXN000624,CUST026,ITEM062,1696155071.800322,1,Cash,839.08,1,839.08,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Meat,Chicken,Panda
+TXN000625,CUST026,ITEM005,1709218758.800482,4,Credit Card,1527.84,3,4583.5199999999995,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Audio Devices,Headphones,Samsung
+TXN000626,CUST026,ITEM043,1722359647.800625,1,Credit Card,1794.42,6,10766.52,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Electronics,Air Conditioner,LG
+TXN000627,CUST026,ITEM093,1704506308.800756,1,Credit Card,755.93,2,1511.86,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Mayonnaise,Heinz
+TXN000628,CUST026,ITEM012,1693961965.800879,3,Mobile Payment,810.66,8,6485.28,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Decorations,Home Depot
+TXN000629,CUST026,ITEM025,1672887391.801001,4,Mobile Payment,72.27,8,578.16,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Clothing,Jacket,Zara
+TXN000630,CUST026,ITEM066,1678491196.801122,5,Credit Card,1048.17,1,1048.17,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Sunflower Oil,Afia
+TXN000631,CUST026,ITEM093,1728995935.801244,2,Mobile Payment,1658.86,7,11612.019999999999,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Mayonnaise,Heinz
+TXN000632,CUST026,ITEM034,1680821040.801394,2,Mobile Payment,1416.44,4,5665.76,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Furniture,IKEA
+TXN000633,CUST026,ITEM033,1704331725.801526,5,Mobile Payment,22.41,2,44.82,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Soft Drink,Pepsi
+TXN000634,CUST026,ITEM040,1679401418.801647,4,Credit Card,1724.33,8,13794.64,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000635,CUST026,ITEM013,1677685279.801787,3,Credit Card,450.57,9,4055.13,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Lighting,Home Depot
+TXN000636,CUST026,ITEM010,1688936285.801916,3,Cash,1940.12,9,17461.079999999998,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Books,Literature,Penguin Books
+TXN000637,CUST026,ITEM053,1680245478.802045,1,Mobile Payment,1493.39,2,2986.78,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Meat,Chicken,Atayb
+TXN000638,CUST026,ITEM072,1672657698.802169,1,Mobile Payment,1149.83,8,9198.64,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Computers,Laptop,Lenovo
+TXN000639,CUST026,ITEM049,1672449359.802291,1,Mobile Payment,1551.39,2,3102.78,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Milk,Faragalla
+TXN000640,CUST026,ITEM018,1701705854.802453,5,Credit Card,1478.38,1,1478.38,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Chocolate,Galaxy
+TXN000641,CUST026,ITEM068,1669813849.802581,5,Cash,626.18,5,3130.8999999999996,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Sesame Oil,Crystal
+TXN000642,CUST026,ITEM086,1695535821.802717,5,Cash,1415.64,7,9909.480000000001,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Beauty,Haircare,Pantene
+TXN000643,CUST026,ITEM047,1682539189.802838,1,Mobile Payment,1884.13,4,7536.52,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Milk,Juhayna
+TXN000644,CUST026,ITEM001,1703033270.802957,5,Mobile Payment,595.04,4,2380.16,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Clothing,Shoes,Nike
+TXN000645,CUST026,ITEM012,1698525069.803074,5,Cash,1335.15,3,4005.4500000000003,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Decorations,Home Depot
+TXN000646,CUST026,ITEM079,1717407154.803512,5,Mobile Payment,1241.1,9,11169.9,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Home Appliances,Siemens
+TXN000647,CUST026,ITEM038,1672177733.803717,5,Cash,1367.09,1,1367.09,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Household,Washing Machine,B.TECH
+TXN000648,CUST026,ITEM059,1723939965.803881,5,Credit Card,1959.53,5,9797.65,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Pharmacy,Healthcare,Eva Cosmetics
+TXN000649,CUST026,ITEM075,1681151675.804024,3,Cash,30.26,2,60.52,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Gaming,Xbox,Microsoft
+TXN000650,CUST026,ITEM095,1689697998.804158,4,Cash,185.74,3,557.22,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Kitchen,Household,Procter & Gamble
+TXN000651,CUST026,ITEM018,1701947899.804287,5,Credit Card,553.77,9,4983.93,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Grocery,Chocolate,Galaxy
+TXN000652,CUST026,ITEM082,1726541021.80444,5,Credit Card,1443.9,5,7219.5,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Beauty,Haircare,LOreal
+TXN000653,CUST026,ITEM058,1688064013.804576,5,Mobile Payment,1257.01,4,5028.04,Peter Mcdowell,cust026@gmail.com,Egypt,31,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000654,CUST027,ITEM032,1708543639.804748,3,Cash,1933.7,8,15469.6,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Clothing,Jacket,Adidas
+TXN000655,CUST027,ITEM009,1704040856.804884,5,Mobile Payment,984.95,3,2954.8500000000004,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Books,Non-Fiction,Penguin Books
+TXN000656,CUST027,ITEM044,1728013226.805022,5,Cash,1095.17,1,1095.17,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Household,Fridge,LG
+TXN000657,CUST027,ITEM065,1694828132.805146,1,Cash,587.01,9,5283.09,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Grocery,Sesame Oil,Afia
+TXN000658,CUST027,ITEM076,1698269371.805267,5,Cash,1833.32,5,9166.6,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Electronics,TV,Philips
+TXN000659,CUST027,ITEM061,1692760728.805413,2,Credit Card,617.89,5,3089.45,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Pharmacy,Healthcare,Herbel Essence
+TXN000660,CUST027,ITEM011,1672336406.805547,2,Credit Card,627.98,4,2511.92,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Household,Tools,Home Depot
+TXN000661,CUST027,ITEM085,1710151556.805681,3,Credit Card,1898.13,9,17083.170000000002,Sarah Villanueva,cust027@gmail.com,Egypt,26,Male,Beauty,Makeup,Revlon
+TXN000662,CUST028,ITEM096,1683630620.805823,1,Credit Card,277.48,7,1942.3600000000001,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Health,Personal Care,Procter & Gamble
+TXN000663,CUST028,ITEM052,1671888446.805944,5,Cash,1020.81,4,4083.24,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Meat,Meat,Halwani Bros
+TXN000664,CUST028,ITEM018,1701498418.806062,5,Mobile Payment,1319.85,1,1319.85,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Chocolate,Galaxy
+TXN000665,CUST028,ITEM071,1726162130.806179,5,Cash,302.17,4,1208.68,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Computers,Laptop,HP
+TXN000666,CUST028,ITEM094,1674811298.806297,4,Credit Card,1883.95,9,16955.55,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Health,Personal Care,Unilever
+TXN000667,CUST028,ITEM039,1671906734.806446,1,Mobile Payment,190.94,5,954.7,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Electronics,Electronics,B.TECH
+TXN000668,CUST028,ITEM076,1681094039.806575,5,Mobile Payment,1624.64,1,1624.64,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Electronics,TV,Philips
+TXN000669,CUST028,ITEM070,1715703831.806722,4,Credit Card,949.58,9,8546.220000000001,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Computers,Laptop,Dell
+TXN000670,CUST028,ITEM062,1696803578.806849,3,Credit Card,1686.65,4,6746.6,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Meat,Chicken,Panda
+TXN000671,CUST028,ITEM024,1702052236.806967,3,Credit Card,1722.16,2,3444.32,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Clothing,Dress,Zara
+TXN000672,CUST028,ITEM064,1729974084.807088,5,Credit Card,1028.72,4,4114.88,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Olive Oil,Afia
+TXN000673,CUST028,ITEM085,1713857600.807206,4,Credit Card,1830.24,9,16472.16,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Beauty,Makeup,Revlon
+TXN000674,CUST028,ITEM082,1675580168.807326,1,Credit Card,260.07,7,1820.49,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Beauty,Haircare,LOreal
+TXN000675,CUST028,ITEM079,1686004071.807486,5,Mobile Payment,749.35,7,5245.45,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Household,Home Appliances,Siemens
+TXN000676,CUST028,ITEM001,1697618732.807609,4,Credit Card,1374.71,3,4124.13,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Clothing,Shoes,Nike
+TXN000677,CUST028,ITEM087,1728209905.807737,5,Mobile Payment,1339.63,2,2679.26,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Beauty,Haircare,Dove
+TXN000678,CUST028,ITEM065,1683349961.807859,2,Mobile Payment,944.12,5,4720.6,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Sesame Oil,Afia
+TXN000679,CUST028,ITEM058,1684446906.807978,5,Mobile Payment,15.51,2,31.02,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Pharmacy,Shampoo,Eva Cosmetics
+TXN000680,CUST028,ITEM033,1714083509.808096,2,Cash,59.97,6,359.82,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Soft Drink,Pepsi
+TXN000681,CUST028,ITEM084,1673389364.808213,2,Cash,1661.23,2,3322.46,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Beauty,Makeup,Maybelline
+TXN000682,CUST028,ITEM014,1705069040.808328,4,Mobile Payment,972.13,4,3888.52,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Household,Furniture,Home Depot
+TXN000683,CUST028,ITEM031,1669938239.808472,5,Mobile Payment,1526.97,9,13742.73,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Clothing,T-shirt,Adidas
+TXN000684,CUST028,ITEM068,1717148428.808591,4,Cash,347.52,5,1737.6,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Sesame Oil,Crystal
+TXN000685,CUST028,ITEM043,1706531958.808716,5,Mobile Payment,132.33,5,661.6500000000001,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Electronics,Air Conditioner,LG
+TXN000686,CUST028,ITEM068,1692390867.808835,5,Cash,1379.87,6,8279.22,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Sesame Oil,Crystal
+TXN000687,CUST028,ITEM015,1671888514.808949,1,Credit Card,471.51,8,3772.08,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Water,Nestle
+TXN000688,CUST028,ITEM047,1696720085.809075,2,Credit Card,1654.77,3,4964.3099999999995,Kimberly Myers,cust028@gmail.com,Egypt,27,Female,Grocery,Milk,Juhayna
+TXN000689,CUST029,ITEM026,1703492096.809207,1,Cash,738.07,4,2952.28,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Books,Fiction,Random House
+TXN000690,CUST029,ITEM036,1703129688.809324,1,Credit Card,1269.51,9,11425.59,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Home Appliances,Bathroom,IKEA
+TXN000691,CUST029,ITEM001,1715243225.809473,5,Credit Card,895.18,7,6266.259999999999,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Shoes,Nike
+TXN000692,CUST029,ITEM094,1723884766.809606,5,Credit Card,1526.84,7,10687.88,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Health,Personal Care,Unilever
+TXN000693,CUST029,ITEM068,1675790009.809732,5,Credit Card,1847.65,3,5542.950000000001,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Sesame Oil,Crystal
+TXN000694,CUST029,ITEM023,1719417286.809849,2,Mobile Payment,381.11,3,1143.33,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Shirt,Zara
+TXN000695,CUST029,ITEM061,1721997295.809965,2,Cash,1428.86,9,12859.74,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Pharmacy,Healthcare,Herbel Essence
+TXN000696,CUST029,ITEM060,1722655747.810079,1,Mobile Payment,1560.36,8,12482.88,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Pharmacy,Shampoo,Herbel Essence
+TXN000697,CUST029,ITEM086,1702829616.810192,5,Cash,548.97,7,3842.79,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Haircare,Pantene
+TXN000698,CUST029,ITEM083,1693039188.81032,2,Mobile Payment,392.97,5,1964.8500000000001,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Skincare,LOreal
+TXN000699,CUST029,ITEM095,1703460442.810462,3,Credit Card,734.86,2,1469.72,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Kitchen,Household,Procter & Gamble
+TXN000700,CUST029,ITEM019,1686635410.810581,5,Cash,1298.63,3,3895.8900000000003,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Snacks,Galaxy
+TXN000701,CUST029,ITEM022,1671902336.81072,2,Cash,1609.65,4,6438.6,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Electronics,Tablet,Apple
+TXN000702,CUST029,ITEM010,1687240929.810842,2,Credit Card,564.56,1,564.56,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Books,Literature,Penguin Books
+TXN000703,CUST029,ITEM046,1710619915.810957,5,Cash,488.12,5,2440.6,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Electronics,Air Conditioner,Tushiba
+TXN000704,CUST029,ITEM031,1672792455.81107,5,Credit Card,551.41,3,1654.23,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,T-shirt,Adidas
+TXN000705,CUST029,ITEM089,1709197748.811183,5,Cash,634.96,4,2539.84,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Skincare,Nivea
+TXN000706,CUST029,ITEM003,1721502267.811296,5,Mobile Payment,167.53,6,1005.1800000000001,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Jacket,Nike
+TXN000707,CUST029,ITEM082,1697176097.811433,5,Mobile Payment,1450.84,3,4352.5199999999995,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Haircare,LOreal
+TXN000708,CUST029,ITEM083,1674483950.811554,3,Mobile Payment,1722.72,7,12059.04,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Skincare,LOreal
+TXN000709,CUST029,ITEM062,1716268257.811666,5,Cash,816.78,6,4900.68,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Meat,Chicken,Panda
+TXN000710,CUST029,ITEM083,1718756816.8118,5,Credit Card,334.98,1,334.98,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Skincare,LOreal
+TXN000711,CUST029,ITEM033,1717225310.811916,2,Cash,316.53,6,1899.1799999999998,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Soft Drink,Pepsi
+TXN000712,CUST029,ITEM016,1678198094.81203,1,Mobile Payment,1818.58,8,14548.64,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Coffee,Nestle
+TXN000713,CUST029,ITEM010,1699076509.812141,5,Cash,1224.82,8,9798.56,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Books,Literature,Penguin Books
+TXN000714,CUST029,ITEM092,1707609424.812262,3,Mobile Payment,1709.13,6,10254.78,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Ketchup,Heinz
+TXN000715,CUST029,ITEM034,1695083863.812432,5,Credit Card,1334.83,2,2669.66,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Household,Furniture,IKEA
+TXN000716,CUST029,ITEM004,1708723151.812625,5,Credit Card,929.01,1,929.01,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Shorts,Nike
+TXN000717,CUST029,ITEM058,1685852502.812762,5,Mobile Payment,1427.25,5,7136.25,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000718,CUST029,ITEM076,1730567277.81288,4,Credit Card,517.76,1,517.76,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Electronics,TV,Philips
+TXN000719,CUST029,ITEM093,1683051424.812992,1,Mobile Payment,47.8,8,382.4,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Mayonnaise,Heinz
+TXN000720,CUST029,ITEM038,1697911376.813106,2,Credit Card,545.09,1,545.09,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Household,Washing Machine,B.TECH
+TXN000721,CUST029,ITEM085,1730374760.813218,3,Credit Card,1929.64,9,17366.760000000002,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Makeup,Revlon
+TXN000722,CUST029,ITEM063,1698992389.813331,1,Credit Card,26.32,4,105.28,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Meat,Meat,Panda
+TXN000723,CUST029,ITEM064,1700982451.813475,2,Credit Card,1157.73,6,6946.38,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Olive Oil,Afia
+TXN000724,CUST029,ITEM022,1680988496.813597,4,Mobile Payment,612.17,8,4897.36,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Electronics,Tablet,Apple
+TXN000725,CUST029,ITEM049,1673677713.813721,1,Credit Card,1684.15,1,1684.15,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Milk,Faragalla
+TXN000726,CUST029,ITEM012,1701460812.813836,5,Mobile Payment,63.18,5,315.9,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Household,Decorations,Home Depot
+TXN000727,CUST029,ITEM070,1691111148.813949,2,Mobile Payment,1554.61,2,3109.22,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Computers,Laptop,Dell
+TXN000728,CUST029,ITEM032,1715740813.814078,1,Mobile Payment,581.63,7,4071.41,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Jacket,Adidas
+TXN000729,CUST029,ITEM065,1695843668.814201,4,Cash,1244.52,4,4978.08,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Sesame Oil,Afia
+TXN000730,CUST029,ITEM087,1687442306.814315,5,Credit Card,1809.75,2,3619.5,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Beauty,Haircare,Dove
+TXN000731,CUST029,ITEM027,1672538907.814454,3,Mobile Payment,1015.33,1,1015.33,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Books,Literature,Random House
+TXN000732,CUST029,ITEM003,1704648569.814573,1,Credit Card,731.2,4,2924.8,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Jacket,Nike
+TXN000733,CUST029,ITEM001,1686298517.814707,5,Credit Card,790.06,4,3160.24,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Shoes,Nike
+TXN000734,CUST029,ITEM028,1686223515.814829,5,Mobile Payment,1031.15,7,7218.050000000001,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Books,Thriller,Random House
+TXN000735,CUST029,ITEM070,1695713667.814944,1,Cash,783.1,1,783.1,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Computers,Laptop,Dell
+TXN000736,CUST029,ITEM025,1724930196.815059,4,Cash,880.52,9,7924.68,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Clothing,Jacket,Zara
+TXN000737,CUST029,ITEM019,1688027156.815176,4,Cash,375.43,5,1877.15,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Snacks,Galaxy
+TXN000738,CUST029,ITEM049,1678209785.815302,4,Credit Card,670.32,9,6032.88,Desiree Cain,cust029@gmail.com,Egypt,38,Male,Grocery,Milk,Faragalla
+TXN000739,CUST030,ITEM026,1717817997.815452,3,Mobile Payment,95.14,3,285.42,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Books,Fiction,Random House
+TXN000740,CUST030,ITEM030,1701893553.815574,5,Mobile Payment,1531.58,2,3063.16,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Clothing,Shoes,Adidas
+TXN000741,CUST030,ITEM076,1700537507.815715,5,Mobile Payment,1244.64,7,8712.480000000001,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Electronics,TV,Philips
+TXN000742,CUST030,ITEM096,1695093603.815836,5,Credit Card,783.54,2,1567.08,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Health,Personal Care,Procter & Gamble
+TXN000743,CUST030,ITEM058,1715229848.81595,2,Credit Card,437.87,4,1751.48,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000744,CUST030,ITEM008,1698066407.816063,1,Mobile Payment,1275.45,3,3826.3500000000004,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Books,Fiction,Penguin Books
+TXN000745,CUST030,ITEM011,1714783401.816176,4,Cash,1331.32,2,2662.64,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Household,Tools,Home Depot
+TXN000746,CUST030,ITEM037,1730729849.816288,5,Credit Card,125.53,7,878.71,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Home Appliances,Bedding,IKEA
+TXN000747,CUST030,ITEM073,1686248558.816427,4,Credit Card,1446.16,1,1446.16,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Gaming,Playstation,Sony
+TXN000748,CUST030,ITEM067,1671245397.816549,1,Cash,49.02,2,98.04,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Grocery,Olive Oil,Crystal
+TXN000749,CUST030,ITEM047,1720154151.816664,2,Credit Card,1152.99,9,10376.91,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Grocery,Milk,Juhayna
+TXN000750,CUST030,ITEM065,1722430911.81679,5,Cash,1782.36,9,16041.24,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Grocery,Sesame Oil,Afia
+TXN000751,CUST030,ITEM058,1669778890.816905,1,Cash,796.42,8,6371.36,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000752,CUST030,ITEM069,1710656860.817018,3,Credit Card,789.42,3,2368.2599999999998,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Grocery,Sunflower Oil,Crystal
+TXN000753,CUST030,ITEM052,1725360023.817134,2,Credit Card,1892.38,3,5677.14,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Meat,Meat,Halwani Bros
+TXN000754,CUST030,ITEM029,1686862449.817258,5,Mobile Payment,1810.79,8,14486.32,Stephanie Lawrence,cust030@gmail.com,Egypt,69,Male,Grocery,Soft Drink,Coca-Cola
+TXN000755,CUST031,ITEM061,1676857744.817425,4,Credit Card,1346.32,3,4038.96,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Pharmacy,Healthcare,Herbel Essence
+TXN000756,CUST031,ITEM067,1686368339.817551,4,Mobile Payment,1028.95,1,1028.95,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Grocery,Olive Oil,Crystal
+TXN000757,CUST031,ITEM027,1680657700.817666,5,Credit Card,1800.89,6,10805.34,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Books,Literature,Random House
+TXN000758,CUST031,ITEM002,1726368631.817791,5,Mobile Payment,1084.1,1,1084.1,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Clothing,T-shirt,Nike
+TXN000759,CUST031,ITEM027,1724751756.817903,3,Mobile Payment,794.37,4,3177.48,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Books,Literature,Random House
+TXN000760,CUST031,ITEM094,1683568683.818016,2,Mobile Payment,1610.62,6,9663.72,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Health,Personal Care,Unilever
+TXN000761,CUST031,ITEM069,1676836701.818141,4,Mobile Payment,1672.56,5,8362.8,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Grocery,Sunflower Oil,Crystal
+TXN000762,CUST031,ITEM020,1677769680.818257,2,Cash,201.21,3,603.63,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Electronics,Smartphone,Apple
+TXN000763,CUST031,ITEM089,1686046975.818389,1,Credit Card,99.69,1,99.69,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Beauty,Skincare,Nivea
+TXN000764,CUST031,ITEM039,1732024740.818511,3,Credit Card,249.89,7,1749.23,Lauren Hayes,cust031@gmail.com,Egypt,34,Male,Electronics,Electronics,B.TECH
+TXN000765,CUST032,ITEM033,1729703188.81865,5,Credit Card,424.16,4,1696.64,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Soft Drink,Pepsi
+TXN000766,CUST032,ITEM020,1676341531.818775,5,Cash,1409.86,9,12688.74,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Electronics,Smartphone,Apple
+TXN000767,CUST032,ITEM066,1713789316.818899,5,Cash,1412.1,7,9884.699999999999,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Sunflower Oil,Afia
+TXN000768,CUST032,ITEM011,1708622965.819015,5,Mobile Payment,819.76,6,4918.5599999999995,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Household,Tools,Home Depot
+TXN000769,CUST032,ITEM091,1702968169.819134,4,Cash,1122.23,7,7855.610000000001,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Health,Oral Care,Colgate
+TXN000770,CUST032,ITEM053,1711997303.81925,5,Cash,838.57,7,5869.990000000001,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Meat,Chicken,Atayb
+TXN000771,CUST032,ITEM077,1698915011.819379,4,Cash,1718.28,2,3436.56,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Electronics,Audio,Philips
+TXN000772,CUST032,ITEM089,1720275460.819505,4,Credit Card,799.84,5,3999.2000000000003,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Beauty,Skincare,Nivea
+TXN000773,CUST032,ITEM009,1677823379.81962,5,Credit Card,1526.67,6,9160.02,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Books,Non-Fiction,Penguin Books
+TXN000774,CUST032,ITEM065,1697310715.819741,3,Mobile Payment,1565.41,8,12523.28,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Sesame Oil,Afia
+TXN000775,CUST032,ITEM018,1717007229.819855,3,Credit Card,434.43,3,1303.29,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Chocolate,Galaxy
+TXN000776,CUST032,ITEM074,1721488740.819966,5,Mobile Payment,1761.84,4,7047.36,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Electronics,Television,Sony
+TXN000777,CUST032,ITEM077,1682465637.82009,2,Credit Card,598.87,6,3593.2200000000003,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Electronics,Audio,Philips
+TXN000778,CUST032,ITEM018,1686324300.820203,5,Credit Card,952.64,2,1905.28,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Chocolate,Galaxy
+TXN000779,CUST032,ITEM010,1726051135.820315,4,Cash,1170.65,6,7023.900000000001,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Books,Literature,Penguin Books
+TXN000780,CUST032,ITEM072,1712330406.820451,2,Cash,1298.09,1,1298.09,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Computers,Laptop,Lenovo
+TXN000781,CUST032,ITEM018,1707923904.8206,5,Mobile Payment,669.82,8,5358.56,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Chocolate,Galaxy
+TXN000782,CUST032,ITEM035,1688808570.820738,4,Cash,1319.07,2,2638.14,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Home Appliances,Kitchen,IKEA
+TXN000783,CUST032,ITEM026,1671099053.820868,5,Credit Card,840.86,6,5045.16,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Books,Fiction,Random House
+TXN000784,CUST032,ITEM080,1708297194.820981,5,Cash,605.37,2,1210.74,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Household,Home Appliances,Haier
+TXN000785,CUST032,ITEM029,1670619976.821093,4,Credit Card,185.04,4,740.16,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Soft Drink,Coca-Cola
+TXN000786,CUST032,ITEM093,1714520699.821205,4,Cash,1195.15,1,1195.15,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Mayonnaise,Heinz
+TXN000787,CUST032,ITEM014,1727171196.821317,3,Cash,1368.62,1,1368.62,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Household,Furniture,Home Depot
+TXN000788,CUST032,ITEM033,1693807956.821456,3,Credit Card,1776.36,8,14210.88,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Soft Drink,Pepsi
+TXN000789,CUST032,ITEM093,1689688844.821574,5,Cash,1025.06,8,8200.48,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Mayonnaise,Heinz
+TXN000790,CUST032,ITEM057,1677979586.821686,3,Credit Card,1517.91,9,13661.19,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000791,CUST032,ITEM084,1694044853.821811,2,Credit Card,268.44,7,1879.08,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Beauty,Makeup,Maybelline
+TXN000792,CUST032,ITEM092,1678630920.821924,4,Credit Card,1260.66,3,3781.9800000000005,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Ketchup,Heinz
+TXN000793,CUST032,ITEM039,1678088190.822036,5,Credit Card,40.56,6,243.36,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Electronics,Electronics,B.TECH
+TXN000794,CUST032,ITEM015,1718138567.822158,2,Mobile Payment,1350.45,7,9453.15,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Water,Nestle
+TXN000795,CUST032,ITEM069,1683407184.822274,2,Mobile Payment,1718.05,5,8590.25,Whitney Stark,cust032@gmail.com,Egypt,69,Male,Grocery,Sunflower Oil,Crystal
+TXN000796,CUST033,ITEM085,1697919861.822416,4,Cash,179.16,8,1433.28,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Beauty,Makeup,Revlon
+TXN000797,CUST033,ITEM058,1689436755.822547,5,Cash,1189.7,8,9517.6,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Pharmacy,Shampoo,Eva Cosmetics
+TXN000798,CUST033,ITEM006,1709130820.822661,3,Mobile Payment,86.86,2,173.72,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Electronics,Television,Samsung
+TXN000799,CUST033,ITEM049,1709160869.822785,5,Cash,1699.36,4,6797.44,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Grocery,Milk,Faragalla
+TXN000800,CUST033,ITEM078,1722707666.822899,5,Cash,1972.87,8,15782.96,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Household,Home Appliances,Bosch
+TXN000801,CUST033,ITEM075,1714139539.823012,4,Cash,1510.56,2,3021.12,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Gaming,Xbox,Microsoft
+TXN000802,CUST033,ITEM070,1683507433.823125,2,Cash,216.06,7,1512.42,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Computers,Laptop,Dell
+TXN000803,CUST033,ITEM051,1707886842.823237,4,Credit Card,84.05,3,252.14999999999998,Angela Salazar,cust033@gmail.com,Egypt,23,Male,Meat,Chicken,Halwani Bros
+TXN000804,CUST034,ITEM083,1715001582.823372,5,Cash,1889.93,9,17009.37,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Beauty,Skincare,LOreal
+TXN000805,CUST034,ITEM088,1674823545.823499,5,Credit Card,1468.46,7,10279.220000000001,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Health,Body Care,Dove
+TXN000806,CUST034,ITEM051,1698854502.823615,2,Credit Card,1720.61,6,10323.66,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Meat,Chicken,Halwani Bros
+TXN000807,CUST034,ITEM086,1713670083.823747,5,Mobile Payment,1027.1,6,6162.599999999999,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Beauty,Haircare,Pantene
+TXN000808,CUST034,ITEM050,1717421109.823865,4,Credit Card,999.94,4,3999.76,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Grocery,Juice,Faragalla
+TXN000809,CUST034,ITEM090,1692768954.823978,5,Cash,1586.39,4,6345.56,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Health,Oral Care,Oral-B
+TXN000810,CUST034,ITEM096,1725585801.824091,4,Mobile Payment,959.46,5,4797.3,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Health,Personal Care,Procter & Gamble
+TXN000811,CUST034,ITEM062,1705157409.82421,4,Credit Card,220.69,5,1103.45,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Meat,Chicken,Panda
+TXN000812,CUST034,ITEM053,1681655925.824328,4,Credit Card,549.49,3,1648.47,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Meat,Chicken,Atayb
+TXN000813,CUST034,ITEM044,1691643031.824473,2,Mobile Payment,503.46,2,1006.92,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Household,Fridge,LG
+TXN000814,CUST034,ITEM034,1678358166.824589,2,Credit Card,1624.38,8,12995.04,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Household,Furniture,IKEA
+TXN000815,CUST034,ITEM065,1711064795.824708,3,Cash,512.12,3,1536.3600000000001,Mr. Ryan Sanchez,cust034@gmail.com,Egypt,33,Female,Grocery,Sesame Oil,Afia
+TXN000816,CUST035,ITEM031,1696183628.82483,5,Mobile Payment,1957.05,8,15656.4,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,T-shirt,Adidas
+TXN000817,CUST035,ITEM030,1727202056.824944,3,Mobile Payment,1219.33,3,3657.99,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,Shoes,Adidas
+TXN000818,CUST035,ITEM050,1679686410.825085,1,Cash,1255.16,8,10041.28,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Grocery,Juice,Faragalla
+TXN000819,CUST035,ITEM032,1727042014.825226,1,Cash,883.88,4,3535.52,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,Jacket,Adidas
+TXN000820,CUST035,ITEM031,1689846781.825349,3,Mobile Payment,1378.41,1,1378.41,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,T-shirt,Adidas
+TXN000821,CUST035,ITEM064,1721061850.825493,5,Cash,515.56,5,2577.7999999999997,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Grocery,Olive Oil,Afia
+TXN000822,CUST035,ITEM030,1695489439.825607,4,Cash,542.98,5,2714.9,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,Shoes,Adidas
+TXN000823,CUST035,ITEM067,1674751378.825731,5,Credit Card,1183.98,7,8287.86,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Grocery,Olive Oil,Crystal
+TXN000824,CUST035,ITEM043,1724823774.825848,5,Credit Card,989.22,8,7913.76,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Electronics,Air Conditioner,LG
+TXN000825,CUST035,ITEM024,1676542240.825961,5,Credit Card,636.53,4,2546.12,Autumn Robinson,cust035@gmail.com,Egypt,65,Female,Clothing,Dress,Zara
+TXN000826,CUST036,ITEM062,1707115323.826091,4,Mobile Payment,1597.83,2,3195.66,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Meat,Chicken,Panda
+TXN000827,CUST036,ITEM009,1698502636.826217,5,Credit Card,1672.49,1,1672.49,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Books,Non-Fiction,Penguin Books
+TXN000828,CUST036,ITEM089,1697093390.826332,2,Mobile Payment,1125.42,9,10128.78,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Beauty,Skincare,Nivea
+TXN000829,CUST036,ITEM079,1689074787.826488,2,Cash,32.56,1,32.56,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Household,Home Appliances,Siemens
+TXN000830,CUST036,ITEM050,1705284210.826608,5,Cash,1439.04,8,11512.32,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Juice,Faragalla
+TXN000831,CUST036,ITEM071,1687690610.826732,4,Cash,176.56,8,1412.48,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Computers,Laptop,HP
+TXN000832,CUST036,ITEM021,1703533250.82685,2,Cash,418.25,3,1254.75,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Computers,Laptop,Apple
+TXN000833,CUST036,ITEM033,1722230164.826963,4,Mobile Payment,615.36,6,3692.16,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Soft Drink,Pepsi
+TXN000834,CUST036,ITEM058,1707047082.827087,5,Credit Card,1847.76,1,1847.76,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Pharmacy,Shampoo,Eva Cosmetics
+TXN000835,CUST036,ITEM004,1714901564.827202,5,Cash,1217.82,9,10960.38,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Clothing,Shorts,Nike
+TXN000836,CUST036,ITEM068,1669825016.827326,5,Mobile Payment,713.51,4,2854.04,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Sesame Oil,Crystal
+TXN000837,CUST036,ITEM080,1680955457.82747,5,Cash,592.76,3,1778.28,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Household,Home Appliances,Haier
+TXN000838,CUST036,ITEM070,1675770212.827588,5,Mobile Payment,1116.95,5,5584.75,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Computers,Laptop,Dell
+TXN000839,CUST036,ITEM014,1695640087.827711,5,Cash,279.84,8,2238.72,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Household,Furniture,Home Depot
+TXN000840,CUST036,ITEM070,1718158119.827828,1,Credit Card,1887.93,2,3775.86,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Computers,Laptop,Dell
+TXN000841,CUST036,ITEM041,1683209269.82794,5,Mobile Payment,805.06,7,5635.42,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Home Appliances,Bathroom,Bed Bath & Beyond
+TXN000842,CUST036,ITEM033,1678551224.828053,3,Cash,700.63,2,1401.26,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Soft Drink,Pepsi
+TXN000843,CUST036,ITEM033,1708724813.828166,4,Cash,1763.67,9,15873.03,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Soft Drink,Pepsi
+TXN000844,CUST036,ITEM029,1715121809.828278,2,Mobile Payment,1148.51,3,3445.5299999999997,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Grocery,Soft Drink,Coca-Cola
+TXN000845,CUST036,ITEM078,1705573452.828412,4,Credit Card,980.43,8,7843.44,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Household,Home Appliances,Bosch
+TXN000846,CUST036,ITEM080,1720998940.828534,5,Mobile Payment,1360.49,1,1360.49,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Household,Home Appliances,Haier
+TXN000847,CUST036,ITEM059,1703335702.828659,3,Credit Card,730.73,9,6576.57,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Pharmacy,Healthcare,Eva Cosmetics
+TXN000848,CUST036,ITEM031,1716817913.828807,4,Cash,1539.49,1,1539.49,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Clothing,T-shirt,Adidas
+TXN000849,CUST036,ITEM035,1732032590.828925,4,Cash,1470.66,1,1470.66,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Home Appliances,Kitchen,IKEA
+TXN000850,CUST036,ITEM087,1731966489.829051,5,Credit Card,655.27,6,3931.62,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Beauty,Haircare,Dove
+TXN000851,CUST036,ITEM057,1727208018.829174,5,Cash,1925.52,8,15404.16,Faith Cabrera,cust036@gmail.com,Egypt,18,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000852,CUST037,ITEM038,1695998168.829296,5,Cash,904.17,1,904.17,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Household,Washing Machine,B.TECH
+TXN000853,CUST037,ITEM001,1697835005.829434,1,Cash,752.46,5,3762.3,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shoes,Nike
+TXN000854,CUST037,ITEM029,1705298130.829555,5,Cash,462.63,1,462.63,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Soft Drink,Coca-Cola
+TXN000855,CUST037,ITEM069,1691416972.829669,4,Credit Card,1430.34,2,2860.68,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Sunflower Oil,Crystal
+TXN000856,CUST037,ITEM090,1689677672.829797,1,Mobile Payment,1723.86,4,6895.44,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Health,Oral Care,Oral-B
+TXN000857,CUST037,ITEM020,1721540645.829911,3,Mobile Payment,656.5,2,1313.0,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Electronics,Smartphone,Apple
+TXN000858,CUST037,ITEM005,1703035081.830024,1,Cash,888.07,2,1776.14,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Audio Devices,Headphones,Samsung
+TXN000859,CUST037,ITEM040,1724727114.830137,5,Credit Card,1925.31,1,1925.31,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Home Appliances,Bedding,Bed Bath & Beyond
+TXN000860,CUST037,ITEM036,1732066936.830272,2,Credit Card,906.15,7,6343.05,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Home Appliances,Bathroom,IKEA
+TXN000861,CUST037,ITEM005,1692042644.830409,4,Credit Card,698.52,2,1397.04,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Audio Devices,Headphones,Samsung
+TXN000862,CUST037,ITEM017,1696650983.830541,5,Mobile Payment,1914.71,6,11488.26,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Juice,Nestle
+TXN000863,CUST037,ITEM022,1704589114.830655,1,Credit Card,1432.8,6,8596.8,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Electronics,Tablet,Apple
+TXN000864,CUST037,ITEM001,1696386296.83078,3,Mobile Payment,238.36,1,238.36,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shoes,Nike
+TXN000865,CUST037,ITEM054,1726887031.830893,4,Mobile Payment,1935.28,6,11611.68,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Meat,Atayb
+TXN000866,CUST037,ITEM004,1692480182.831005,4,Credit Card,46.98,1,46.98,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shorts,Nike
+TXN000867,CUST037,ITEM029,1688050958.831117,4,Mobile Payment,1113.74,6,6682.4400000000005,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Soft Drink,Coca-Cola
+TXN000868,CUST037,ITEM068,1688150803.831241,4,Credit Card,1684.1,3,5052.299999999999,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Sesame Oil,Crystal
+TXN000869,CUST037,ITEM084,1727872292.831368,1,Credit Card,65.79,3,197.37,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Beauty,Makeup,Maybelline
+TXN000870,CUST037,ITEM084,1697487795.831494,4,Credit Card,1289.29,2,2578.58,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Beauty,Makeup,Maybelline
+TXN000871,CUST037,ITEM088,1726715684.831609,5,Credit Card,1337.21,3,4011.63,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Health,Body Care,Dove
+TXN000872,CUST037,ITEM023,1687814506.83173,3,Mobile Payment,1275.78,2,2551.56,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shirt,Zara
+TXN000873,CUST037,ITEM078,1681517818.831856,5,Cash,1721.03,4,6884.12,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Household,Home Appliances,Bosch
+TXN000874,CUST037,ITEM029,1708250274.83197,4,Mobile Payment,455.81,4,1823.24,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Soft Drink,Coca-Cola
+TXN000875,CUST037,ITEM066,1675167742.832082,3,Cash,657.45,7,4602.150000000001,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Sunflower Oil,Afia
+TXN000876,CUST037,ITEM053,1690054959.832195,3,Credit Card,970.51,3,2911.5299999999997,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Chicken,Atayb
+TXN000877,CUST037,ITEM030,1717780882.832308,2,Mobile Payment,536.69,2,1073.38,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shoes,Adidas
+TXN000878,CUST037,ITEM052,1712506930.832443,1,Credit Card,1307.79,7,9154.529999999999,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Meat,Halwani Bros
+TXN000879,CUST037,ITEM028,1674026605.832606,4,Mobile Payment,1721.84,7,12052.88,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Books,Thriller,Random House
+TXN000880,CUST037,ITEM070,1705331099.832737,5,Mobile Payment,1540.89,2,3081.78,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Computers,Laptop,Dell
+TXN000881,CUST037,ITEM056,1716800556.832852,4,Credit Card,1498.42,8,11987.36,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Meat,Sadia
+TXN000882,CUST037,ITEM012,1700649633.832965,4,Credit Card,132.84,1,132.84,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Household,Decorations,Home Depot
+TXN000883,CUST037,ITEM012,1699634105.833077,4,Credit Card,1463.05,7,10241.35,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Household,Decorations,Home Depot
+TXN000884,CUST037,ITEM011,1687872981.833189,5,Credit Card,1694.69,5,8473.45,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Household,Tools,Home Depot
+TXN000885,CUST037,ITEM060,1732119353.833301,2,Mobile Payment,613.68,8,4909.44,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000886,CUST037,ITEM053,1710510844.83344,5,Cash,899.25,1,899.25,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Chicken,Atayb
+TXN000887,CUST037,ITEM022,1717805514.833573,2,Mobile Payment,1803.98,2,3607.96,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Electronics,Tablet,Apple
+TXN000888,CUST037,ITEM052,1715535500.833689,5,Cash,988.08,4,3952.32,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Meat,Meat,Halwani Bros
+TXN000889,CUST037,ITEM093,1699621415.833864,4,Mobile Payment,1306.11,2,2612.22,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Grocery,Mayonnaise,Heinz
+TXN000890,CUST037,ITEM023,1700332375.833979,5,Cash,821.58,4,3286.32,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Shirt,Zara
+TXN000891,CUST037,ITEM032,1716611534.834092,1,Credit Card,66.61,1,66.61,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Jacket,Adidas
+TXN000892,CUST037,ITEM025,1689352539.834221,4,Credit Card,1227.14,8,9817.12,Charles Wolfe,cust037@gmail.com,Egypt,36,Female,Clothing,Jacket,Zara
+TXN000893,CUST038,ITEM074,1697613955.834345,4,Credit Card,681.57,9,6134.13,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Electronics,Television,Sony
+TXN000894,CUST038,ITEM096,1673995279.834488,3,Cash,1647.89,2,3295.78,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Health,Personal Care,Procter & Gamble
+TXN000895,CUST038,ITEM059,1730059086.834604,5,Cash,1557.02,8,12456.16,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Pharmacy,Healthcare,Eva Cosmetics
+TXN000896,CUST038,ITEM037,1707760868.834726,5,Cash,470.25,6,2821.5,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Home Appliances,Bedding,IKEA
+TXN000897,CUST038,ITEM081,1679630332.834841,5,Mobile Payment,1814.48,2,3628.96,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Beauty,Makeup,LOreal
+TXN000898,CUST038,ITEM027,1690900244.834956,3,Credit Card,219.15,9,1972.3500000000001,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Books,Literature,Random House
+TXN000899,CUST038,ITEM085,1697420290.83507,1,Cash,1260.06,5,6300.299999999999,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Beauty,Makeup,Revlon
+TXN000900,CUST038,ITEM057,1716956918.835192,5,Cash,886.16,6,5316.96,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000901,CUST038,ITEM025,1671228418.835308,1,Cash,60.7,1,60.7,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Clothing,Jacket,Zara
+TXN000902,CUST038,ITEM086,1689515005.835454,1,Credit Card,785.68,2,1571.36,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Beauty,Haircare,Pantene
+TXN000903,CUST038,ITEM076,1695767125.835574,5,Mobile Payment,1271.07,3,3813.21,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Electronics,TV,Philips
+TXN000904,CUST038,ITEM074,1670708952.835687,5,Credit Card,224.5,5,1122.5,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Electronics,Television,Sony
+TXN000905,CUST038,ITEM049,1707117129.835812,5,Credit Card,1841.89,2,3683.78,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Grocery,Milk,Faragalla
+TXN000906,CUST038,ITEM048,1711522929.835992,4,Mobile Payment,222.53,6,1335.18,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Grocery,Juice,Juhayna
+TXN000907,CUST038,ITEM003,1712403518.836115,5,Mobile Payment,257.53,9,2317.7699999999995,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Clothing,Jacket,Nike
+TXN000908,CUST038,ITEM068,1699587905.83624,5,Cash,189.23,2,378.46,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Grocery,Sesame Oil,Crystal
+TXN000909,CUST038,ITEM048,1732149256.836379,4,Credit Card,229.46,7,1606.22,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Grocery,Juice,Juhayna
+TXN000910,CUST038,ITEM039,1725762424.836506,5,Mobile Payment,1563.42,2,3126.84,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Electronics,Electronics,B.TECH
+TXN000911,CUST038,ITEM087,1715542338.836631,5,Mobile Payment,980.61,7,6864.27,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Beauty,Haircare,Dove
+TXN000912,CUST038,ITEM094,1690452461.836755,2,Cash,316.08,1,316.08,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Health,Personal Care,Unilever
+TXN000913,CUST038,ITEM084,1682977391.836878,3,Cash,57.15,4,228.6,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Beauty,Makeup,Maybelline
+TXN000914,CUST038,ITEM095,1722778273.836992,2,Mobile Payment,667.63,9,6008.67,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Kitchen,Household,Procter & Gamble
+TXN000915,CUST038,ITEM014,1715894614.837104,5,Mobile Payment,882.57,5,4412.85,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Household,Furniture,Home Depot
+TXN000916,CUST038,ITEM039,1694567813.837215,5,Credit Card,1176.74,3,3530.2200000000003,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Electronics,Electronics,B.TECH
+TXN000917,CUST038,ITEM034,1709500060.837333,1,Cash,1860.58,3,5581.74,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Household,Furniture,IKEA
+TXN000918,CUST038,ITEM069,1691799843.837609,5,Credit Card,1493.61,7,10455.269999999999,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Grocery,Sunflower Oil,Crystal
+TXN000919,CUST038,ITEM060,1689491184.837739,5,Mobile Payment,1357.63,4,5430.52,Kenneth Kent,cust038@gmail.com,Egypt,53,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000920,CUST039,ITEM076,1697639415.837864,5,Credit Card,1837.11,1,1837.11,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Electronics,TV,Philips
+TXN000921,CUST039,ITEM033,1719927695.837978,5,Credit Card,192.11,8,1536.88,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Soft Drink,Pepsi
+TXN000922,CUST039,ITEM074,1722407538.838091,4,Mobile Payment,924.68,5,4623.4,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Electronics,Television,Sony
+TXN000923,CUST039,ITEM014,1722183380.838203,5,Mobile Payment,306.26,3,918.78,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Household,Furniture,Home Depot
+TXN000924,CUST039,ITEM002,1720630378.838494,3,Mobile Payment,1321.24,4,5284.96,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,T-shirt,Nike
+TXN000925,CUST039,ITEM068,1683322706.838808,3,Credit Card,1360.47,5,6802.35,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Sesame Oil,Crystal
+TXN000926,CUST039,ITEM060,1695339092.839,5,Cash,1090.81,9,9817.289999999999,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Pharmacy,Shampoo,Herbel Essence
+TXN000927,CUST039,ITEM033,1708464873.839155,5,Mobile Payment,1510.54,1,1510.54,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Soft Drink,Pepsi
+TXN000928,CUST039,ITEM013,1689561920.839293,5,Mobile Payment,777.38,5,3886.9,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Household,Lighting,Home Depot
+TXN000929,CUST039,ITEM051,1679750147.839505,5,Credit Card,398.16,6,2388.96,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Meat,Chicken,Halwani Bros
+TXN000930,CUST039,ITEM095,1711395444.83967,4,Credit Card,1273.45,8,10187.6,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Kitchen,Household,Procter & Gamble
+TXN000931,CUST039,ITEM046,1695343411.839804,2,Mobile Payment,1949.8,9,17548.2,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Electronics,Air Conditioner,Tushiba
+TXN000932,CUST039,ITEM055,1718536574.83993,5,Credit Card,1785.47,2,3570.94,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Meat,Chicken,Sadia
+TXN000933,CUST039,ITEM092,1718404628.840064,3,Mobile Payment,1151.72,6,6910.32,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Ketchup,Heinz
+TXN000934,CUST039,ITEM073,1699537175.840188,1,Cash,825.59,4,3302.36,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Gaming,Playstation,Sony
+TXN000935,CUST039,ITEM024,1716313888.840308,2,Cash,1445.68,9,13011.12,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,Dress,Zara
+TXN000936,CUST039,ITEM082,1693149406.840464,3,Mobile Payment,784.29,4,3137.16,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Beauty,Haircare,LOreal
+TXN000937,CUST039,ITEM043,1721127583.84059,5,Credit Card,1485.65,4,5942.6,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Electronics,Air Conditioner,LG
+TXN000938,CUST039,ITEM026,1691293400.840721,4,Credit Card,1043.74,7,7306.18,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Books,Fiction,Random House
+TXN000939,CUST039,ITEM025,1705263375.840841,1,Mobile Payment,1864.7,6,11188.2,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,Jacket,Zara
+TXN000940,CUST039,ITEM082,1690486584.840978,5,Cash,672.33,2,1344.66,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Beauty,Haircare,LOreal
+TXN000941,CUST039,ITEM002,1681685602.841114,5,Cash,1687.11,5,8435.55,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,T-shirt,Nike
+TXN000942,CUST039,ITEM019,1718590775.841234,4,Cash,1071.34,2,2142.68,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Snacks,Galaxy
+TXN000943,CUST039,ITEM091,1730657101.841372,2,Mobile Payment,1887.97,9,16991.73,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Health,Oral Care,Colgate
+TXN000944,CUST039,ITEM076,1724521882.841506,5,Credit Card,1849.31,2,3698.62,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Electronics,TV,Philips
+TXN000945,CUST039,ITEM030,1681427185.841633,3,Credit Card,1293.19,8,10345.52,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,Shoes,Adidas
+TXN000946,CUST039,ITEM092,1690174060.841758,5,Cash,769.11,7,5383.77,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Ketchup,Heinz
+TXN000947,CUST039,ITEM057,1727214818.841913,1,Cash,1879.55,6,11277.3,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Pharmacy,Healthcare,Egyptian Pharmaceutical
+TXN000948,CUST039,ITEM089,1722979763.842052,3,Cash,290.02,8,2320.16,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Beauty,Skincare,Nivea
+TXN000949,CUST039,ITEM066,1677011210.842191,4,Credit Card,1470.66,9,13235.94,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Sunflower Oil,Afia
+TXN000950,CUST039,ITEM018,1686365964.842311,1,Cash,1919.75,2,3839.5,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Grocery,Chocolate,Galaxy
+TXN000951,CUST039,ITEM001,1672203453.84246,4,Mobile Payment,1265.63,5,6328.150000000001,Melanie Johnson,cust039@gmail.com,Egypt,42,Female,Clothing,Shoes,Nike
+TXN000952,CUST040,ITEM091,1696705962.842591,4,Credit Card,842.35,8,6738.8,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Health,Oral Care,Colgate
+TXN000953,CUST040,ITEM020,1669566129.842753,5,Mobile Payment,1981.91,6,11891.460000000001,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Electronics,Smartphone,Apple
+TXN000954,CUST040,ITEM020,1712161723.842876,2,Mobile Payment,65.08,6,390.48,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Electronics,Smartphone,Apple
+TXN000955,CUST040,ITEM008,1729586293.843003,2,Mobile Payment,248.16,5,1240.8,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Books,Fiction,Penguin Books
+TXN000956,CUST040,ITEM095,1676067287.843136,4,Mobile Payment,1280.25,2,2560.5,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Kitchen,Household,Procter & Gamble
+TXN000957,CUST040,ITEM051,1731769996.84326,1,Mobile Payment,1762.73,6,10576.380000000001,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Meat,Chicken,Halwani Bros
+TXN000958,CUST040,ITEM053,1713716285.843403,5,Mobile Payment,1929.66,8,15437.28,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Meat,Chicken,Atayb
+TXN000959,CUST040,ITEM079,1728156521.843533,2,Cash,1536.96,8,12295.68,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Household,Home Appliances,Siemens
+TXN000960,CUST040,ITEM066,1709154456.843659,1,Credit Card,253.38,9,2280.42,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Grocery,Sunflower Oil,Afia
+TXN000961,CUST040,ITEM015,1686481988.843777,5,Mobile Payment,882.05,1,882.05,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Grocery,Water,Nestle
+TXN000962,CUST040,ITEM042,1670308489.843892,5,Credit Card,656.66,6,3939.96,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Household,Decorations,Bed Bath & Beyond
+TXN000963,CUST040,ITEM070,1710268931.844007,1,Credit Card,190.93,1,190.93,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Computers,Laptop,Dell
+TXN000964,CUST040,ITEM069,1689126170.844124,2,Mobile Payment,1147.36,7,8031.5199999999995,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Grocery,Sunflower Oil,Crystal
+TXN000965,CUST040,ITEM053,1717188648.844243,4,Cash,1557.16,7,10900.12,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Meat,Chicken,Atayb
+TXN000966,CUST040,ITEM077,1720545557.844407,5,Mobile Payment,304.35,6,1826.1000000000001,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Electronics,Audio,Philips
+TXN000967,CUST040,ITEM085,1715413827.844541,1,Cash,1080.41,6,6482.460000000001,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Beauty,Makeup,Revlon
+TXN000968,CUST040,ITEM028,1685981454.844672,5,Mobile Payment,938.59,8,7508.72,Lisa Johnston,cust040@gmail.com,Egypt,67,Female,Books,Thriller,Random House
+TXN000969,CUST041,ITEM053,1685479978.844799,4,Mobile Payment,515.84,1,515.84,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Meat,Chicken,Atayb
+TXN000970,CUST041,ITEM086,1684547988.844916,5,Credit Card,205.3,9,1847.7,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Beauty,Haircare,Pantene
+TXN000971,CUST041,ITEM046,1710658527.845032,4,Cash,101.61,2,203.22,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Electronics,Air Conditioner,Tushiba
+TXN000972,CUST041,ITEM039,1697847736.845145,1,Cash,545.02,6,3270.12,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Electronics,Electronics,B.TECH
+TXN000973,CUST041,ITEM093,1722399124.84526,2,Cash,265.66,7,1859.6200000000001,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Grocery,Mayonnaise,Heinz
+TXN000974,CUST041,ITEM011,1669321077.845406,5,Mobile Payment,1183.38,4,4733.52,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Household,Tools,Home Depot
+TXN000975,CUST041,ITEM005,1729652865.845531,2,Cash,964.35,4,3857.4,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Audio Devices,Headphones,Samsung
+TXN000976,CUST041,ITEM056,1707251424.845655,5,Cash,1958.72,9,17628.48,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Meat,Meat,Sadia
+TXN000977,CUST041,ITEM023,1689360003.845771,4,Mobile Payment,1769.96,5,8849.8,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Clothing,Shirt,Zara
+TXN000978,CUST041,ITEM053,1708202252.845885,4,Cash,893.51,6,5361.0599999999995,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Meat,Chicken,Atayb
+TXN000979,CUST041,ITEM014,1708276009.846013,5,Credit Card,649.86,3,1949.58,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Household,Furniture,Home Depot
+TXN000980,CUST041,ITEM086,1703546814.84613,5,Mobile Payment,599.04,2,1198.08,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Beauty,Haircare,Pantene
+TXN000981,CUST041,ITEM034,1729946943.846245,3,Mobile Payment,1693.08,4,6772.32,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Household,Furniture,IKEA
+TXN000982,CUST041,ITEM033,1703549497.846383,2,Credit Card,1884.0,5,9420.0,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Grocery,Soft Drink,Pepsi
+TXN000983,CUST041,ITEM043,1691697095.846509,5,Cash,1046.41,1,1046.41,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Electronics,Air Conditioner,LG
+TXN000984,CUST041,ITEM032,1691765112.846634,2,Mobile Payment,631.17,7,4418.19,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Clothing,Jacket,Adidas
+TXN000985,CUST041,ITEM030,1687453719.846752,5,Mobile Payment,1082.57,3,3247.71,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Clothing,Shoes,Adidas
+TXN000986,CUST041,ITEM068,1676666833.846868,5,Mobile Payment,559.1,1,559.1,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Grocery,Sesame Oil,Crystal
+TXN000987,CUST041,ITEM025,1720567619.846981,1,Mobile Payment,777.83,4,3111.32,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Clothing,Jacket,Zara
+TXN000988,CUST041,ITEM005,1708514776.847108,5,Mobile Payment,763.5,9,6871.5,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Audio Devices,Headphones,Samsung
+TXN000989,CUST041,ITEM034,1697868259.847233,4,Cash,33.51,4,134.04,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Household,Furniture,IKEA
+TXN000990,CUST041,ITEM010,1671046788.847348,5,Cash,1478.61,5,7393.049999999999,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Books,Literature,Penguin Books
+TXN000991,CUST041,ITEM031,1671204433.847501,1,Credit Card,62.41,5,312.04999999999995,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Clothing,T-shirt,Adidas
+TXN000992,CUST041,ITEM054,1723317669.847626,5,Cash,497.38,2,994.76,Jacob Hooper,cust041@gmail.com,Egypt,69,Female,Meat,Meat,Atayb
+TXN000993,CUST042,ITEM031,1701069364.847764,5,Cash,1923.56,2,3847.12,Alex Woodward,cust042@gmail.com,Egypt,47,Male,Clothing,T-shirt,Adidas
+TXN000994,CUST042,ITEM063,1702794313.847898,4,Credit Card,608.55,8,4868.4,Alex Woodward,cust042@gmail.com,Egypt,47,Male,Meat,Meat,Panda
+TXN000995,CUST043,ITEM011,1679721593.848019,4,Cash,362.74,6,2176.44,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Household,Tools,Home Depot
+TXN000996,CUST043,ITEM036,1695984357.848175,4,Cash,333.33,8,2666.64,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Home Appliances,Bathroom,IKEA
+TXN000997,CUST043,ITEM015,1696758761.848472,4,Cash,647.8,8,5182.4,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Grocery,Water,Nestle
+TXN000998,CUST043,ITEM059,1692450834.848698,4,Credit Card,432.57,6,2595.42,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Pharmacy,Healthcare,Eva Cosmetics
+TXN000999,CUST043,ITEM028,1685907561.848834,2,Credit Card,134.49,9,1210.41,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Books,Thriller,Random House
+TXN001000,CUST043,ITEM084,1727637379.848953,5,Mobile Payment,147.65,1,147.65,Caleb Clark,cust043@gmail.com,Egypt,37,Male,Beauty,Makeup,Maybelline
